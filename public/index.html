@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f3f4f7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0f13" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Steady Leads">
+<title>Steady Leads</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23171a22'/%3E%3Crect x='5' y='11' width='22' height='10' rx='5' fill='none' stroke='%23c5ee3a' stroke-width='2'/%3E%3Cpath d='M12 11.500v9M20 11.500v9' stroke='%23c5ee3a' stroke-width='1.500'/%3E%3Ccircle cx='16' cy='16' r='2.600' fill='%23c5ee3a'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://tile.openstreetmap.org">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&display=swap">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div id="boot" aria-label="Loading Steady Leads"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#171a22"/><rect x="5" y="11" width="22" height="10" rx="5" fill="none" stroke="#c5ee3a" stroke-width="2"/><path d="M12 11.500v9M20 11.500v9" stroke="#c5ee3a" stroke-width="1.500"/><circle cx="16" cy="16" r="2.600" fill="#c5ee3a"/></svg><span class="level"><i></i></span></div>
+<div id="app">
+  <aside id="side" aria-label="Sidebar"></aside>
+  <div id="stage">
+    <section id="v-leads" class="view" hidden>
+      <div class="pane" id="lpane">
+        <header class="bar">
+          <div class="bar-row">
+            <h1>Leads</h1><span class="grow"></span>
+            <div class="seg only-m" id="lmode" role="tablist" aria-label="Show as">
+              <button data-act="lmode" data-v="list" role="tab">List</button><button data-act="lmode" data-v="map" role="tab">Map</button>
+            </div>
+            <button class="ib" id="filterbtn" data-act="filters" aria-label="Filters"></button>
+            <button class="me only-m" data-act="settings" aria-label="Account"></button>
+          </div>
+          <label class="search"><span class="search-ic"></span><input id="q" type="search" data-on="q" enterkeyhint="search" placeholder="Address, builder or keyword" aria-label="Search leads"></label>
+          <div class="scope" id="scope"></div>
+        </header>
+        <div id="list" class="scroll"></div>
+      </div>
+      <div id="mapwrap">
+        <div id="map"></div>
+        <button id="areabtn" data-act="area-search" hidden></button>
+        <div id="maplegend" hidden></div>
+        <button id="routepill" data-act="route-open" hidden></button>
+        <div id="mapcard" hidden></div>
+        <div class="mapctl">
+          <div class="zoomer"><button id="zin" data-act="zoom" data-d="1" aria-label="Zoom in"></button><button id="zout" data-act="zoom" data-d="-1" aria-label="Zoom out"></button></div>
+          <button id="mapfit" class="fab" data-act="fit-leads" aria-label="Show all results on the map"></button>
+          <button id="locate" class="fab" data-act="locate" aria-label="Show my location"></button>
+        </div>
+      </div>
+    </section>
+    <section id="v-other" class="view" hidden></section>
+  </div>
+  <nav id="tabs" aria-label="Main"></nav>
+  <aside id="insp" aria-hidden="true" aria-label="Lead"></aside>
+  <div id="sheets"></div>
+  <div id="toasts" aria-live="polite"></div>
+</div>
+<div id="print"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/core.js"></script>
+<script src="js/leads.js"></script>
+<script src="js/map.js"></script>
+<script src="js/lead.js"></script>
+<script src="js/views.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

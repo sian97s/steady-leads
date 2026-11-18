@@ -1,0 +1,391 @@
+{
+ "admin.delta.ca/5229.e1bc09f9.pdf": {
+  "count": 17,
+  "first_last": [
+   "BP022704",
+   "BP023166"
+  ],
+  "skipped": null
+ },
+ "admin.delta.ca/5593.0bfa2f35.pdf": {
+  "count": 12,
+  "first_last": [
+   "BP022808",
+   "BP023392"
+  ],
+  "skipped": null
+ },
+ "admin.delta.ca/5612.861650c5.pdf": {
+  "count": 15,
+  "first_last": [
+   "BP023269",
+   "BP023345"
+  ],
+  "skipped": null
+ },
+ "admin.delta.ca/5649.700de449.pdf": {
+  "count": 9,
+  "first_last": [
+   "BP023353",
+   "BP023420"
+  ],
+  "skipped": null
+ },
+ "admin.delta.ca/5663.d66d2811.pdf": {
+  "count": 13,
+  "first_last": [
+   "BP023177",
+   "BP023375"
+  ],
+  "skipped": null
+ },
+ "admin.delta.ca/5697.3be22d2b.pdf": {
+  "count": 13,
+  "first_last": [
+   "BP023145",
+   "BP023416"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/August-1-2025.pdf.d1e12985": {
+  "count": 3,
+  "first_last": [
+   "BLD24-01151",
+   "BLD25-01127"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/August-28-2026.pdf.2b749627": {
+  "count": 6,
+  "first_last": [
+   "BLD26-00461",
+   "BLD26-00164"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/August-29-2026.pdf.3cbd5632": {
+  "count": 7,
+  "first_last": [
+   "BLD26-00339",
+   "BLD26-00961"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/March-5-2026.pdf.5d560428": {
+  "count": 7,
+  "first_last": [
+   "BLD25-01890",
+   "BLD26-00151"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/November-3-2026.pdf.2e4917df": {
+  "count": 6,
+  "first_last": [
+   "BLD26-00677",
+   "BLD26-01185"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/November-4-2026.pdf.117ed660": {
+  "count": 9,
+  "first_last": [
+   "BLD26-01381",
+   "BLD26-01170"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/November-5-2026.pdf.6ece4bcf": {
+  "count": 5,
+  "first_last": [
+   "BLD26-01154",
+   "DEMO26-00141"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/November-6-2026.pdf.121ed45e": {
+  "count": 3,
+  "first_last": [
+   "BLD26-01370",
+   "DEMO26-00165"
+  ],
+  "skipped": null
+ },
+ "burnaby.ca/November-7-2026.pdf.afc348ba": {
+  "count": 1,
+  "first_last": [
+   "DEMO25-00210",
+   "DEMO25-00210"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.16d02a15.pdf": {
+  "count": 16,
+  "first_last": [
+   "BP036455",
+   "BP036677"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.1b10152a.pdf": {
+  "count": 12,
+  "first_last": [
+   "BP036546",
+   "BP036714"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.251173f8.pdf": {
+  "count": 9,
+  "first_last": [
+   "BP036548",
+   "BP036495"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.485ac87a.pdf": {
+  "count": 8,
+  "first_last": [
+   "BP036609",
+   "BP036717"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.6f2f74ab.pdf": {
+  "count": 12,
+  "first_last": [
+   "BP036416",
+   "BP036624"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.7510ff27.pdf": {
+  "count": 0,
+  "skipped": "UnreadablePDF"
+ },
+ "chilliwack.com/attachView.cfm.8d36c63c.pdf": {
+  "count": 0,
+  "skipped": "UnreadablePDF"
+ },
+ "chilliwack.com/attachView.cfm.9e5c6258.pdf": {
+  "count": 9,
+  "first_last": [
+   "BP036102",
+   "BP036134"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.c8794bbd.pdf": {
+  "count": 0,
+  "skipped": "UnreadablePDF"
+ },
+ "chilliwack.com/attachView.cfm.ca8ac9fc.pdf": {
+  "count": 15,
+  "first_last": [
+   "BP036535",
+   "BP036508"
+  ],
+  "skipped": null
+ },
+ "chilliwack.com/attachView.cfm.e2a19862.pdf": {
+  "count": 12,
+  "first_last": [
+   "BP036608",
+   "BP036713"
+  ],
+  "skipped": null
+ },
+ "cnv.org/2019-April-Issued-Building-Permits-Report.pdf.82923802": {
+  "count": 40,
+  "first_last": [
+   "BLD2017-10328",
+   "BLD2019-11341"
+  ],
+  "min_dated": 0.86,
+  "skipped": null
+ },
+ "cnv.org/2019-July-Issued-Building-Permits-Report.pdf.57b93a9c": {
+  "count": 0,
+  "skipped": "UNPARSED: no recognisable column header"
+ },
+ "cnv.org/2023-December-Issued-Building-Permits-Report.PDF.93732515": {
+  "count": 25,
+  "first_last": [
+   "BLD2020-00048",
+   "BLD2023-00325"
+  ],
+  "skipped": null
+ },
+ "cnv.org/2026-August-Issued-Building-Permit-Report.PDF.f8535828": {
+  "count": 37,
+  "first_last": [
+   "BLD2022-00181",
+   "BLD2026-00231"
+  ],
+  "skipped": null
+ },
+ "cnv.org/2026-Octrober-Issued-Building-Permits-Report.pdf.63bf1e89": {
+  "count": 33,
+  "first_last": [
+   "BLD2026-00246",
+   "BLD2025-00251"
+  ],
+  "skipped": null
+ },
+ "cnv.org/2026-September-Issued-Building-Permit-Report.PDF.51449fb1": {
+  "count": 28,
+  "first_last": [
+   "BLD2026-00173",
+   "BLD2026-00181"
+  ],
+  "skipped": null
+ },
+ "coquitlam.ca/Issued-Building-Permits-PDF.2a5b1c9c.pdf": {
+  "count": 40,
+  "first_last": [
+   "26-122487-00",
+   "26-109082-00"
+  ],
+  "skipped": null
+ },
+ "mission.ca/april-2023-month-end-building-statistics-no-phone-numberspdf.2da41735.pdf": {
+  "count": 36,
+  "first_last": [
+   "20220292",
+   "20220316"
+  ],
+  "skipped": null
+ },
+ "mission.ca/august-2026-month-end-building-statistics.966b4d25.pdf": {
+  "count": 25,
+  "first_last": [
+   "20260138",
+   "20260232"
+  ],
+  "skipped": null
+ },
+ "mission.ca/february-2021-building-statisticspdf.aa0b96b5.pdf": {
+  "count": 0,
+  "skipped": "UNPARSED: no recognisable column header"
+ },
+ "mission.ca/january-2021-building-statistics-1pdf.bde1ff2d.pdf": {
+  "count": 0,
+  "skipped": "UNPARSED: no recognisable column header"
+ },
+ "mission.ca/july-2026-month-end-building-statistics.bf9e9689.pdf": {
+  "count": 30,
+  "first_last": [
+   "20260171",
+   "20260154"
+  ],
+  "skipped": null
+ },
+ "mission.ca/june-2022-building-statisticspdf.fe07d97b.pdf": {
+  "count": 43,
+  "dupes_ok": true,
+  "first_last": [
+   "20220138",
+   "20210352"
+  ],
+  "skipped": null
+ },
+ "mission.ca/may-2026-month-end-building-statistics-r-0.a8708feb.pdf": {
+  "count": 0,
+  "skipped": "UNPARSED: no recognisable column header"
+ },
+ "mission.ca/october-2026-month-end-building-statistics.4b355cce.pdf": {
+  "count": 24,
+  "first_last": [
+   "20260258",
+   "20260233"
+  ],
+  "skipped": null
+ },
+ "mission.ca/september-2026-month-end-building-statistics.431226ec.pdf": {
+  "count": 15,
+  "first_last": [
+   "20260212",
+   "20260254"
+  ],
+  "skipped": null
+ },
+ "portcoquitlam.ca/4804.5415c2ab.html": {
+  "count": 9
+ },
+ "richmond.ca/bldgJun202679491.pdf.5edcf29b": {
+  "count": 109,
+  "first_last": [
+   "24-008194-000-01",
+   "26-012618-000-00"
+  ],
+  "skipped": null
+ },
+ "richmond.ca/bldgaug202679790.pdf.3af41487": {
+  "count": 115,
+  "first_last": [
+   "26-012497-000-00",
+   "26-017263-000-00"
+  ],
+  "skipped": null
+ },
+ "richmond.ca/bldgjul202679588.pdf.db4c1a60": {
+  "count": 129,
+  "first_last": [
+   "26-007296-000-00",
+   "26-016782-000-00"
+  ],
+  "skipped": null
+ },
+ "richmond.ca/buildingreportaug9202679559.pdf.f7c08a19": {
+  "count": 31,
+  "first_last": [
+   "26-013998-000-00",
+   "26-017263-000-00"
+  ],
+  "skipped": null
+ },
+ "richmond.ca/demojul202679589.pdf.14484183": {
+  "count": 9,
+  "first_last": [
+   "26-012496-000-00",
+   "26-016976-000-00"
+  ],
+  "skipped": null
+ },
+ "richmond.ca/demoreportaug16202679562.pdf.dcf9f09e": {
+  "count": 4,
+  "first_last": [
+   "26-007325-000-00",
+   "26-014088-000-00"
+  ],
+  "skipped": null
+ },
+ "richmond.ca/demoreportaug9202679560.pdf.96e55c0b": {
+  "count": 6,
+  "first_last": [
+   "26-012115-000-00",
+   "26-014901-000-00"
+  ],
+  "skipped": null
+ },
+ "richmond.ca/demoreportoct11-17202679908.pdf.958f5d63": {
+  "count": 0,
+  "skipped": "NotAPermitReport"
+ },
+ "richmond.ca/demoreportoct18-24202679959.pdf.a01a1bac": {
+  "count": 0,
+  "skipped": "NotAPermitReport"
+ },
+ "richmond.ca/demoreportsept13-19202679814.pdf.895d3baa": {
+  "count": 0,
+  "skipped": "NotAPermitReport"
+ },
+ "richmond.ca/demorptaug202679791.pdf.dcabcbf1": {
+  "count": 13,
+  "first_last": [
+   "26-007325-000-00",
+   "26-017149-000-00"
+  ],
+  "skipped": null
+ }
+}

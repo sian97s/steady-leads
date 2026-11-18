@@ -1,0 +1,64 @@
+contractor list: 25786 rows, 21855 distinct names
+all permits, all years: 134870 permits, 130618 name a company/person, 28222 matched = 21.6% of named, 20.9% of all
+building permits, all years: 74478 permits, 70282 name a company/person, 25410 matched = 36.2% of named, 34.1% of all
+building permits since 2025-11-16: 9667 permits, 8773 name a company/person, 3106 matched = 35.4% of named, 32.1% of all
+
+by source (building permits since 2025-11-16): source, permits, with contractor name, matched
+  vancouver                3627   3622   1223
+  surrey                   2187   1632    734
+  burnaby                  1206   1202    530
+  richmond                  851    847    264
+  maple_ridge               421    421    207
+  new_westminster           311    307     49
+  chilliwack                242    240      4
+  mission                   210    137     49
+  squamish                  162    160      0
+  north_vancouver_city      138     98     25
+  delta                     116     66     13
+  port_moody                109      0      0
+  coquitlam                  77     33      3
+  port_coquitlam             10      8      5
+
+20 SAMPLE MATCHES (permit name -> list entry)
+  [surrey] Aksh Construction & Drywall Ltd.  ->  Aksh Construction & Drywall Ltd. | (604) 808-8667 | In Good Standing
+  [vancouver] CIBON CONTRACTING LTD.  ->  Cibon Contracting Ltd. | (604) 802-6018 | In Good Standing
+  [vancouver] DBD Westcoast Construction Ltd  ->  DBD Westcoast Construction Ltd. | (604) 500-4494 | Historical
+  [vancouver] HL PROPERTIES LTD.  ->  HL Properties Ltd. | (778) 882-1371 | In Good Standing
+  [burnaby] VANWELL HOMES LTD  ->  Vanwell Homes Ltd. | (604) 649-7919 | In Good Standing
+  [surrey] 0825886 BC Ltd  ->  0825886 BC Ltd. | (778) 891-5500 | In Good Standing
+  [mission] Huge Projects  ->  Huge Projects Ltd. | (604) 832-0931 | In Good Standing
+  [vancouver] RICHTOWN CONSTRUCTION LTD  ->  Richtown Construction Ltd. | (604) 600-6468 | In Good Standing
+  [burnaby] ALARIS DEVELOPMENTS LTD  ->  Alaris Developments Ltd. | (604) 992-3533 | In Good Standing
+  [maple_ridge] NOURA HOMES LTD  ->  Noura Homes Ltd. | (778) 285-0503 | In Good Standing
+  [maple_ridge] PROSTYLE CONSTRUCTION LTD  ->  ProStyle Construction Ltd. | (778) 389-6506 | In Good Standing
+  [richmond] Pandher Properties Ltd  ->  Pandher Properties Ltd. | (604) 807-5985 | In Good Standing
+  [surrey] Heirloom Projects Ltd.  ->  Heirloom Projects Ltd. | (604) 530-3361 | In Good Standing
+  [surrey] RCG Homes Ltd  ->  RCG Homes Ltd. | (604) 518-9264 | Not In Good Standing
+  [surrey] Divine Luxury Villas Limited  ->  Divine Luxury Villas Ltd. | (778) 237-5121 | In Good Standing
+  [vancouver] Crown Pacific Development Ltd.  ->  Crown Pacific Development Ltd. | (604) 644-8182 | In Good Standing
+  [burnaby] META WEST DEVELOPMENT LIMITED.  ->  Meta West Development Limited | (604) 500-0810 | In Good Standing
+  [new_westminster] FRICIA CONSTRUCTION  ->  Fricia Construction Inc. | (604) 864-0050 | Historical
+  [burnaby] AUR HOMES INC  ->  Aur Homes Inc. | (604) 825-4103 | In Good Standing
+  [surrey] Pacific Valley Contracting Inc  ->  Pacific Valley Contracting Inc. | (604) 537-4960 | In Good Standing
+
+20 MISSES (most active unmatched contractor names)
+  Bhullar Excavating and Demolition  (58 permits; richmond,vancouver)
+  APOLLO EXCAVATING & CIVIL WORKS LTD  (39 permits; burnaby,richmond,vancouver)
+  SOLVE ENERGY INC  (37 permits; burnaby,maple_ridge,new_westminster,richmond,surrey,vancouver)
+  JASSAL SIGNS LTD  (31 permits; burnaby,mission,new_westminster,north_vancouver_city,surrey)
+  AKAL DEMOLITION & EXCAVATING LTD  (29 permits; new_westminster,north_vancouver_city,vancouver)
+  CENTRAL WEST PROJECT MANAGEMENT  (27 permits; maple_ridge,richmond,vancouver)
+  EPIC HOMES THE GROVE LP  (27 permits; maple_ridge)
+  HAVEN SOLAR INC  (25 permits; burnaby,maple_ridge,richmond,surrey,vancouver)
+  KINGSMAN EXCAVATING LTD  (25 permits; new_westminster,north_vancouver_city,vancouver)
+  CANADIAN EXCAVATING LTD  (23 permits; new_westminster,vancouver)
+  JVT EXCAVATING & DEMOLITION LTD  (22 permits; vancouver)
+  MAG SOLAR INC  (22 permits; maple_ridge,mission,north_vancouver_city,surrey)
+  SHIFT ENERGY GROUP INC  (22 permits; burnaby,maple_ridge,mission,new_westminster,richmond,surrey,vancouver)
+  East West Excavating 2022 Ltd  (21 permits; vancouver)
+  FUSION PROJECT MANAGEMENT LTD  (21 permits; burnaby,vancouver)
+  MATRA CONSTRUCTION INC  (21 permits; burnaby,richmond,surrey,vancouver)
+  Fleck Contracting Ltd  (20 permits; vancouver)
+  GIBRALTAR HOLDINGS LTD  (20 permits; burnaby,new_westminster,richmond,surrey,vancouver)
+  GNA CONTRACTING LTD  (20 permits; burnaby,vancouver)
+  READY SOLAR INC  (19 permits; burnaby,maple_ridge,surrey,vancouver)

@@ -1,0 +1,14 @@
+node_modules
+.venv
+__pycache__
+.pytest_cache
+data/*.db*
+data/.ingest.lock
+data/last_run.json
+.env
+.DS_Store
+*.log
+data/builders.xlsx
+data/geocode_cache.json
+data/pdf_seen.json
+data/FIRST_RUN_DONE

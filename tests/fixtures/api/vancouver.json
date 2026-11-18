@@ -1,0 +1,2242 @@
+[
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-01555",
+"uid": "ed231ab213267d5379bb398e7db05aefe4652678",
+"record_type": "issued",
+"issue_date": "2026-08-18",
+"address": "222 KEEFER STREET, Vancouver, BC V6A 1X5",
+"lat": 49.279199,
+"lon": -123.098918,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 400000,
+"applicant": "Mitch Sakumoto DBA: Merrick Architecture",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - Interior demolition to this existing mixed-use building on this site. Building to be unoccupied until further, separate demolition and renovation permit is completed. Sch A & B (Arch): Mitchell Sakumoto, 604-683-4131, Merrick Architecture",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-01555",
+"permitnumbercreateddate": "2026-05-11",
+"issuedate": "2026-08-18",
+"permitelapseddays": 99,
+"projectvalue": 400000.0,
+"typeofwork": "Addition / Alteration",
+"address": "222 KEEFER STREET, Vancouver, BC V6A 1X5",
+"projectdescription": "Field Review - Addition / Alteration - Interior demolition to this existing mixed-use building on this site. Building to be unoccupied until further, separate demolition and renovation permit is completed.\n\nSch A & B (Arch): Mitchell Sakumoto, 604-683-4131, Merrick Architecture",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Mitch Sakumoto DBA: Merrick Architecture",
+"applicantaddress": "MERRICK ARCHITECTURE LTD\r\n300-839 CAMBIE ST\r\nVANCOUVER, BC  V6B2P4",
+"propertyuse": [
+"Retail Uses"
+],
+"specificusecategory": [
+"Not Applicable"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Strathcona",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0989185,
+49.2791992
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0989185,
+"lat": 49.2791992
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02716",
+"uid": "f8780b26786eeff51f70e3815d8dddb06de85b0c",
+"record_type": "issued",
+"issue_date": "2026-08-18",
+"address": "1770 W 7TH AVENUE, Vancouver, BC V6J 4Y6",
+"lat": 49.265215,
+"lon": -123.145019,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 75000,
+"applicant": "Sara Tam DBA: Read Jones Christoffersen Ltd.",
+"contractor": null,
+"description": "Direct to Inspections - Addition / Alteration - Interior alterations to replace post tension strands in the level 4 and the roof slab at this commercial building on this site.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02716",
+"permitnumbercreateddate": "2026-08-12",
+"issuedate": "2026-08-18",
+"permitelapseddays": 6,
+"projectvalue": 75000.0,
+"typeofwork": "Addition / Alteration",
+"address": "1770 W 7TH AVENUE, Vancouver, BC V6J 4Y6",
+"projectdescription": "Direct to Inspections - Addition / Alteration - Interior alterations to replace post tension strands in the level 4 and the roof slab at this commercial building on this site.",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Sara Tam DBA: Read Jones Christoffersen Ltd.",
+"applicantaddress": "1285 West Broadway\r\nSuite 300\r\nVancouver, BC  V6H 3X8",
+"propertyuse": [
+"Office Uses"
+],
+"specificusecategory": [
+"General Office"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Fairview",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1450194,
+49.2652153
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1450194,
+"lat": 49.2652153
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-02211",
+"uid": "18dbfaa10fac0d342c4f91294f70eb708398aae4",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "3809 OSLER STREET, Vancouver, BC V6H 2W7",
+"lat": 49.251763,
+"lon": -123.130245,
+"work_type": "addition",
+"use_class": "residential",
+"value": 15000,
+"applicant": "VictorEric Design Group Ltd.",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - To alter the exterior of this existing single detached house located in the Heritage Conservation Area (HCA) to install a window. Note: Building protected under First Shaughnessy Heritage Conservation Area",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-02211",
+"permitnumbercreateddate": "2026-07-02",
+"issuedate": "2026-08-19",
+"permitelapseddays": 48,
+"projectvalue": 15000.0,
+"typeofwork": "Addition / Alteration",
+"address": "3809 OSLER STREET, Vancouver, BC V6H 2W7",
+"projectdescription": "Field Review - Addition / Alteration - To alter the exterior of this existing single detached house located in the Heritage Conservation Area (HCA) to install a window.\n\nNote: Building protected under First Shaughnessy Heritage Conservation Area",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "VictorEric Design Group Ltd.",
+"applicantaddress": "#-220-3410 LOUGHEED HIGHWAY\r\nVANCOUVER, BC  V5M 2A4",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Shaughnessy",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1302451,
+49.2517627
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1302451,
+"lat": 49.2517627
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-02500",
+"uid": "2eb5d89227bdd287b5582642781ac7976682a1e1",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "6260 KILLARNEY STREET, Vancouver, BC V5S 2X7",
+"lat": 49.227059,
+"lon": -123.044371,
+"work_type": "addition",
+"use_class": "residential",
+"value": 2830000,
+"applicant": "James Weng",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - Exterior and interior alterations to install a Heat recovery system & control upgrades to this existing mechanical system in this existing Community Centre Building (Killarney Community Centre) on this site. The scope of the exterior alterations includes the re & re of outdoor equipment. Schedule A - CRP - Mike Reimer - 604-671-4375 Schedule B - MECH/PLBG - Mike Reimer - 604-671-4375 Schedule B - ELEC - Kuan-Chih (Jeff) Chen - 778-994-8518 Schedule B - STRUC - Ed Davis - 604-632-3350 Schedule D - Envelope - Alden Kung - 604-632-4354",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-02500",
+"permitnumbercreateddate": "2026-07-23",
+"issuedate": "2026-08-19",
+"permitelapseddays": 27,
+"projectvalue": 2830000.0,
+"typeofwork": "Addition / Alteration",
+"address": "6260 KILLARNEY STREET, Vancouver, BC V5S 2X7",
+"projectdescription": "Field Review - Addition / Alteration - Exterior and interior alterations to install a Heat recovery system & control upgrades to this existing mechanical system in this existing Community Centre Building (Killarney Community Centre) on this site.\n\nThe scope of the exterior alterations includes the re & re of outdoor equipment. \n\nSchedule A - CRP - Mike Reimer - 604-671-4375\nSchedule B - MECH/PLBG - Mike Reimer - 604-671-4375\nSchedule B - ELEC - Kuan-Chih (Jeff) Chen - 778-994-8518\nSchedule B - STRUC - Ed Davis - 604-632-3350\n\nSchedule D - Envelope - Alden Kung - 604-632-4354",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "James Weng",
+"applicantaddress": "#320 - 507 West Broadway\r\nVancouver    , BC  V5Z 1E6",
+"propertyuse": [
+"Cultural/Recreational Uses"
+],
+"specificusecategory": [
+"Community Ctr./Neighbourhood House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Killarney",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0443707,
+49.2270589
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0443707,
+"lat": 49.2270589
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-01900",
+"uid": "30876eaee58a8ffc6971f66c4079b38b64305e5a",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "2717 GRANVILLE STREET, Vancouver, BC",
+"lat": 49.2614,
+"lon": -123.138705,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 6000,
+"applicant": "PETER VOZIKAS DBA: AGENT",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - 2717 Granville Street Interior alterations to provide tenant improvements to this existing Retail Store (Group E) for a new Retail store tenant at 2717 Granville Street on the ground floor of this existing commercial building on this site. Note: No shelving permitted over 6', as stated in operational letter. Okay for FR as per I.Celic June 8, 2026 Note: (1) Contractor to have a valid Vancouver Business License or Intermunicipal Business License (2) Shelving units shall not be more than 6'H. A structural engineer is required if the shelving units are more than 6'H. (3) A separate permit for signage will be required and is not captured by this permit",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-01900",
+"permitnumbercreateddate": "2026-06-09",
+"issuedate": "2026-08-19",
+"permitelapseddays": 71,
+"projectvalue": 6000.0,
+"typeofwork": "Addition / Alteration",
+"address": "2717 GRANVILLE STREET, Vancouver, BC",
+"projectdescription": "Field Review - Addition / Alteration - 2717 Granville Street\n\nInterior alterations to provide tenant improvements to this existing Retail Store (Group E) for a new Retail store tenant at 2717 Granville Street on the ground floor of this existing commercial building on this site.\n\nNote: No shelving permitted over 6', as stated in operational letter.\n\nOkay for FR as per I.Celic June 8, 2026\n\nNote:\n(1) Contractor to have a valid Vancouver Business License or Intermunicipal Business License \n(2) Shelving units shall not be more than 6'H. A structural engineer is required if the shelving units are more than 6'H.\n(3) A separate permit for signage will be required and is not captured by this permit",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "PETER VOZIKAS DBA: AGENT",
+"applicantaddress": "5 NORTH RIDGE CRESCENT\r\nGEORGETOWN, ON  L7G 6E7",
+"propertyuse": [
+"Retail Uses"
+],
+"specificusecategory": [
+"Retail Store"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Fairview",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1387047,
+49.2614001
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1387047,
+"lat": 49.2614001
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2025-03378",
+"uid": "8a4f88c90e9ad2a4b04c19b9c74e094ae7b0b752",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "1988 W 61ST AVENUE, Vancouver, BC",
+"lat": 49.216075,
+"lon": -123.152463,
+"work_type": "new",
+"use_class": "residential",
+"value": 968250,
+"applicant": "Rondy Zhang",
+"contractor": "Kouver Custom Homes Ltd",
+"description": "Low Density Housing - New Building - To construct a 2.5 storey Net Zero Single Detached House ($968,250) with a carport and garage, providing 4 parking spaces, having vehicular access from the 20' lane. Note: per Section 10.33.1(a), the CHBA Net Zero building has applied an increase in permitted building height of 0.6 m. Note: per Section 10.33.1(e), the CHBA Net Zero building has applied a floor area exclusion of 19% of permitted floor area (subject to stated caps and conditions). Note: The entire building to be sprinklered to NFPA 13D Note: This is a 2.5 storey building pursuant to the Zoning and Development By-Law 1.\\tCovenant registered at the Land Title Office under CB2836726 2.\\tMechanical unit proposed \u2013 Exterior component located on the rear deck, Interior component located in the top storey coffee/bar room 3.\\tBar sink located in the top half storey 4.\\tSchedule A: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) 5.\\tSchedule B: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) Architectural 6.\\tSchedule B: (C. Shen) P.Eng (604-771-0116) Structural 7.\\tSchedule B: (J. Z. Jin) P.Eng (604-362-7021) Geotechnical 8.\\tSchedule D: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) 9.\\tHPO: Residential Builder \u2013 Kouver Custom Homes Ltd. Address Information: BUILDING 1 #1-1988 W 61st Av - Single Detached House Address and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. ***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2025-03378",
+"permitnumbercreateddate": "2025-07-29",
+"issuedate": "2026-08-19",
+"permitelapseddays": 386,
+"projectvalue": 968250.0,
+"typeofwork": "New Building",
+"address": "1988 W 61ST AVENUE, Vancouver, BC",
+"projectdescription": "Low Density Housing - New Building - To construct a 2.5 storey Net Zero Single Detached House ($968,250) with a carport and garage, providing 4 parking spaces, having vehicular access from the 20' lane.\n\nNote: per Section 10.33.1(a), the CHBA Net Zero building has applied an increase in permitted building height of 0.6 m. \n\nNote: per Section 10.33.1(e), the CHBA Net Zero building has applied a floor area exclusion of 19% of permitted floor area (subject to stated caps and conditions). \n\nNote: The entire building to be sprinklered to NFPA 13D \n\nNote: This is a 2.5 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tCovenant registered at the Land Title Office under CB2836726\n2.\\tMechanical unit proposed \u2013 Exterior component located on the rear deck, Interior component located in the top storey coffee/bar room\n3.\\tBar sink located in the top half storey\n4.\\tSchedule A: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018)\n5.\\tSchedule B: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) Architectural\n6.\\tSchedule B: (C. Shen) P.Eng (604-771-0116) Structural\n7.\\tSchedule B: (J. Z. Jin) P.Eng (604-362-7021) Geotechnical\n8.\\tSchedule D: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018)\n9.\\tHPO: Residential Builder \u2013 Kouver Custom Homes Ltd.\n\nAddress Information:\nBUILDING 1\n#1-1988 W 61st Av - Single Detached House\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "Rondy Zhang",
+"applicantaddress": "1862 Lilac Drive\r\nSurrey, BC  V4A 5C9",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "Kouver Custom Homes Ltd",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Kerrisdale",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1524627,
+49.2160752
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1524627,
+"lat": 49.2160752
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-02394",
+"uid": "8d185989cf426864c2552f54b05dd3524b4cc33f",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "6565 BROOKS STREET #3, Vancouver, BC",
+"lat": 49.223864,
+"lon": -123.035624,
+"work_type": "new",
+"use_class": "residential",
+"value": 343500,
+"applicant": "Satnam Minhas DBA: General Contractor",
+"contractor": "Maplewest Homes Ltd",
+"description": "Low Density Housing - New Building - To construct a 2 storey laneway house building ($343,500.00) with a carport, providing 2 parking space, having vehicular access from the 20' Lane. 1.\\tCovenant registered at the Land Title Office under CB2948444 2.\\tMechanical unit proposed \u2013 Exterior component located in rear yard 3.\\tSchedule B: (A S RATHOD) P.Eng (778.885.0551) Structural 4.\\tSchedule B:(A S RATHOD) P.Eng (778.885.0551) Geotechnical 5.\\tHPO: Residential Builder- Maplewest Homes Ltd Note: The entire building to be sprinklered to NFPA 13D Note: This is a 1 \u00bd storey building pursuant to the Zoning & Development By-law. Address information: Building 2 #3-6565 Brooks St - Laneway House (2.0 storeys) Address and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. *This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-02394",
+"permitnumbercreateddate": "2026-07-15",
+"issuedate": "2026-08-19",
+"permitelapseddays": 35,
+"projectvalue": 343500.0,
+"typeofwork": "New Building",
+"address": "6565 BROOKS STREET #3, Vancouver, BC",
+"projectdescription": "Low Density Housing - New Building - To construct a 2 storey laneway house building ($343,500.00) with a carport, providing 2 parking space, having vehicular access from the 20' Lane.\n\n1.\\tCovenant registered at the Land Title Office under CB2948444\n2.\\tMechanical unit proposed \u2013 Exterior component located in rear yard\n3.\\tSchedule B: (A S RATHOD) P.Eng (778.885.0551) Structural\n4.\\tSchedule B:(A S RATHOD) P.Eng (778.885.0551) Geotechnical\n5.\\tHPO: Residential Builder- Maplewest Homes Ltd\nNote: The entire building to be sprinklered to NFPA 13D \n\nNote:  This is a 1 \u00bd storey building pursuant to the Zoning & Development By-law.\n\nAddress information:\nBuilding 2\n#3-6565 Brooks St  - Laneway House (2.0 storeys)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n*This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "Satnam Minhas DBA: General Contractor",
+"applicantaddress": "1275 E 62 Ave\r\nVancouver, BC  V5X 2H2",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Laneway House"
+],
+"buildingcontractor": "Maplewest Homes Ltd",
+"buildingcontractoraddress": "1275 E 62ND AV  \r\nVancouver, BC  V5X 2H2",
+"issueyear": "2026",
+"geolocalarea": "Killarney",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0356243,
+49.223864
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0356243,
+"lat": 49.223864
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-02393",
+"uid": "98d7de77ecd3a6d8850c6f26d48deb07ce218e98",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "6565 BROOKS STREET, Vancouver, BC V5S 3J6",
+"lat": 49.223873,
+"lon": -123.03561,
+"work_type": "new",
+"use_class": "residential",
+"value": 833750,
+"applicant": "Satnam Minhas DBA: General Contractor",
+"contractor": "Maplewest Homes Ltd",
+"description": "Low Density Housing - New Building - To construct a 2 storey single detached house with a secondary suite located in the Basement($833,750.00) with a carport, providing 2 parking space, having vehicular access from the 20' Lane. 1.\\tCovenant registered at the Land Title Office under CB2948444 2.\\tMechanical unit proposed \u2013 Exterior component located in rear yard 3.\\tSchedule B: (A S RATHOD) P.Eng (778.885.0551) Structural 4.\\tSchedule B:(A S RATHOD) P.Eng (778.885.0551) Geotechnical 5.\\tHPO: Residential Builder- Maplewest Homes Ltd Note: The entire building to be sprinklered to NFPA 13D Note: This is a 2 storey building pursuant to the Zoning and Development By-Law Address Information: Building 1 #1-6565 Brooks St - Principal Dwelling \u2013 Principal Dwelling (1st-2nd floors) #2-6565 Brooks St - Secondary Suite (basement) Address and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. NEW R1-1 BYLAW *This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-02393",
+"permitnumbercreateddate": "2026-07-15",
+"issuedate": "2026-08-19",
+"permitelapseddays": 35,
+"projectvalue": 833750.0,
+"typeofwork": "New Building",
+"address": "6565 BROOKS STREET, Vancouver, BC V5S 3J6",
+"projectdescription": "Low Density Housing - New Building - To construct a 2 storey single detached house with a secondary suite located in the Basement($833,750.00) with a carport, providing 2 parking space, having vehicular access from the 20' Lane.\n\n1.\\tCovenant registered at the Land Title Office under CB2948444\n2.\\tMechanical unit proposed \u2013 Exterior component located in rear yard\n3.\\tSchedule B: (A S RATHOD) P.Eng (778.885.0551) Structural\n4.\\tSchedule B:(A S RATHOD) P.Eng (778.885.0551) Geotechnical\n5.\\tHPO: Residential Builder- Maplewest Homes Ltd\n\nNote: The entire building to be sprinklered to NFPA 13D \nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1\n#1-6565 Brooks St  - Principal Dwelling \u2013 Principal Dwelling (1st-2nd floors)\n#2-6565 Brooks St  - Secondary Suite (basement)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\nNEW R1-1 BYLAW\n\n*This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025*",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "Satnam Minhas DBA: General Contractor",
+"applicantaddress": "1275 E 62 Ave\r\nVancouver, BC  V5X 2H2",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House w/Sec Suite"
+],
+"buildingcontractor": "Maplewest Homes Ltd",
+"buildingcontractoraddress": "1275 E 62ND AV  \r\nVancouver, BC  V5X 2H2",
+"issueyear": "2026",
+"geolocalarea": "Killarney",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.03561,
+49.2238726
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.03561,
+"lat": 49.2238726
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02795",
+"uid": "ad423563c0d77dce8e3a5f1959562a95f793bf28",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "3534 W 18TH AVENUE, Vancouver, BC V6S 1B1",
+"lat": 49.256218,
+"lon": -123.182741,
+"work_type": "addition",
+"use_class": "residential",
+"value": 20479,
+"applicant": "Maricel Mendoza DBA: Solve Energy",
+"contractor": "SOLVE ENERGY INC.",
+"description": "Direct to Inspections - Addition / Alteration - 3534 W 18TH AV Exterior alterations only to install 14 solar panels on the main roof on the existing one-family dwelling on this site. Scope of work includes installation of Solar panels Okay for DTI as per Ankur.H 18 Aug 2026",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02795",
+"permitnumbercreateddate": "2026-08-18",
+"issuedate": "2026-08-19",
+"permitelapseddays": 1,
+"projectvalue": 20479.0,
+"typeofwork": "Addition / Alteration",
+"address": "3534 W 18TH AVENUE, Vancouver, BC V6S 1B1",
+"projectdescription": "Direct to Inspections - Addition / Alteration - 3534 W 18TH AV\n\nExterior alterations only to install 14 solar panels on the main roof on the existing one-family dwelling on this site.\n\nScope of work includes installation of Solar panels\n\nOkay for DTI as per Ankur.H 18 Aug 2026",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Maricel Mendoza DBA: Solve Energy",
+"applicantaddress": "117-2785 Leigh Road\r\nVictoria, BC  V9B 4G1",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "SOLVE ENERGY INC.",
+"buildingcontractoraddress": "2785 Leigh Road  \r\nUnit 117\r\nVictoria, BC  V9B 4G1",
+"issueyear": "2026",
+"geolocalarea": "Dunbar-Southlands",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1827406,
+49.2562178
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1827406,
+"lat": 49.2562178
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-00650",
+"uid": "b0f36aa011a146549eef67a5967e4eca689c4d00",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "1845 W 13TH AVENUE, Vancouver, BC V6J 2H4",
+"lat": 49.260232,
+"lon": -123.146974,
+"work_type": "new",
+"use_class": "residential",
+"value": 1500000,
+"applicant": "Michael Lu DBA: Lineform Architecture Inc",
+"contractor": "Shield Construction Ltd",
+"description": "Low Density Housing - New Building - To construct a 2 storey two-family dwelling with a Basement ($1,500,000) and a detached accessory building (garage) at the rear providing 2 parking spaces, having vehicular access from the lane. Note: The entire building to be sprinklered to 2 x NFPA 13D Note: This is a 2 storey building pursuant to the Zoning and Development By-Law 1.\\tMechanical unit proposed \u2013 Exterior component located in the rear yard 2.\\tBar sink located in the basement 3.\\tSchedule B: (T.F. STOCKTON) P.Eng (604.228.0518) Structural 4.\\tSchedule B: (J.Z. JIN) P.Eng (604.362.7021) Geotechnical 5.\\tHPO: Residential Builder- Shield Construction Ltd Address Information: EAST UNIT #1-1845 W 13th Av \u2013 One Dwelling Unit (1st - 2nd floor, & basement) WEST UNIT #2-1845 W 13th Av \u2013 One Dwelling Unit (1st - 2nd floor, & basement) Address and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. ***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-00650",
+"permitnumbercreateddate": "2026-02-26",
+"issuedate": "2026-08-19",
+"permitelapseddays": 174,
+"projectvalue": 1500000.0,
+"typeofwork": "New Building",
+"address": "1845 W 13TH AVENUE, Vancouver, BC V6J 2H4",
+"projectdescription": "Low Density Housing - New Building - To construct a 2 storey two-family dwelling with a Basement ($1,500,000) and a detached accessory building (garage) at the rear providing 2 parking spaces, having vehicular access from the lane.\n\nNote: The entire building to be sprinklered to 2 x NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\n1.\\tMechanical unit proposed \u2013 Exterior component located in the rear yard\n2.\\tBar sink located in the basement\n3.\\tSchedule B: (T.F. STOCKTON) P.Eng (604.228.0518) Structural\n4.\\tSchedule B: (J.Z. JIN) P.Eng (604.362.7021) Geotechnical\n5.\\tHPO: Residential Builder- Shield Construction Ltd\n\nAddress Information:\n\nEAST UNIT\n#1-1845 W 13th Av \u2013 One Dwelling Unit (1st - 2nd floor, & basement)\n\nWEST UNIT\n#2-1845 W 13th Av \u2013 One Dwelling Unit (1st - 2nd floor, & basement)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "Michael Lu DBA: Lineform Architecture Inc",
+"applicantaddress": "Unit 517 - 8188 Manitoba Street\r\nVancouver, BC  V5X 0L5",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Duplex"
+],
+"buildingcontractor": "Shield Construction Ltd",
+"buildingcontractoraddress": "1177 W HASTINGS ST  \r\nUnit 1705\r\nVancouver, BC  V6E 2K3",
+"issueyear": "2026",
+"geolocalarea": "Kitsilano",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1469745,
+49.2602319
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1469745,
+"lat": 49.2602319
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02522",
+"uid": "b7c744a5f6f5317fdb32c4eb17c9c97e07295f97",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "2710 MCGILL STREET, Vancouver, BC V5K 1H5",
+"lat": 49.288409,
+"lon": -123.0489,
+"work_type": "addition",
+"use_class": "residential",
+"value": 50000,
+"applicant": "Raffaele & Associates DBA: Raffaele and Associates",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - 2710 MCGILL ST Interior alterations for change of use from this existing Single Family Home with Secondary Suite to Single Family Home with the basement level to be used for Child Care (8 Children) at this existing residential home on this site. Upper cabinets and double sink to be converted to bar sink with no over head cupboards if child daycare is no longer used in the basement level. Non-conforming door at the bottom of stairs on the basement level to comply to the code requirements at the time of no childcare operation in this space in the future per Shawn Dyste, August 11, 2026. Ok for Field Review as per J. Kuhleitner Note: 1. This house is sprinklered. 2. Related to IA-2026-00123",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02522",
+"permitnumbercreateddate": "2026-07-27",
+"issuedate": "2026-08-19",
+"permitelapseddays": 23,
+"projectvalue": 50000.0,
+"typeofwork": "Addition / Alteration",
+"address": "2710 MCGILL STREET, Vancouver, BC V5K 1H5",
+"projectdescription": "Field Review - Addition / Alteration - 2710 MCGILL ST\n\nInterior alterations for change of use from this existing Single Family Home with Secondary Suite to Single Family Home with the basement level to be used for Child Care (8 Children) at this existing residential home on this site.\n\nUpper cabinets and double sink to be converted to bar sink with no over head cupboards if child daycare is no longer used in the basement level. \nNon-conforming door at the bottom of stairs on the basement level to comply to the code requirements at the time of no childcare operation in this space in the future per Shawn Dyste, August 11, 2026.\n\nOk for Field Review as per J. Kuhleitner\n\nNote:\n1. This house is sprinklered.\n2. Related to IA-2026-00123",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Raffaele & Associates DBA: Raffaele and Associates",
+"applicantaddress": "2642 East Hastings\r\nVancouver, BC  V5K 1Z6",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Hastings-Sunrise",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0488997,
+49.2884092
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0488997,
+"lat": 49.2884092
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2025-04710",
+"uid": "d29323a9654407c5e07b973d294914f9dfa948f1",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "4617 W 15TH AVENUE, Vancouver, BC V6R 3B5",
+"lat": 49.259605,
+"lon": -123.212919,
+"work_type": "addition",
+"use_class": "residential",
+"value": 600000,
+"applicant": "Malcolm McSporran DBA: Quinkatla Development Planning",
+"contractor": "MDM-HARP Contracting Inc",
+"description": "Low Density Housing - Addition / Alteration - Exterior and interior alterations to convert the crawlspace to habitable floor area and to convert a portion to a secondary suite for this existing 2 + basement SFD FSR approved at 0.89 per BOV Appeal Z36285 Structural/Geotechnical Schedule B - Phil Miller 778-828-0161",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2025-04710",
+"permitnumbercreateddate": "2025-11-07",
+"issuedate": "2026-08-19",
+"permitelapseddays": 285,
+"projectvalue": 600000.0,
+"typeofwork": "Addition / Alteration",
+"address": "4617 W 15TH AVENUE, Vancouver, BC V6R 3B5",
+"projectdescription": "Low Density Housing - Addition / Alteration - Exterior and interior alterations to convert the crawlspace to habitable floor area and to convert a portion to a secondary suite for this existing 2 + basement SFD\n\nFSR approved at 0.89 per BOV Appeal Z36285\n\nStructural/Geotechnical Schedule B - Phil Miller 778-828-0161",
+"permitcategory": null,
+"applicant": "Malcolm McSporran DBA: Quinkatla Development Planning",
+"applicantaddress": "2997 W 7th Ave\r\nVANCOUVER, BC  V6K 1Z7",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House w/Sec Suite"
+],
+"buildingcontractor": "MDM-HARP Contracting Inc",
+"buildingcontractoraddress": "1905 W 2ND AV  \r\nVancouver, BC  V6J 1J2",
+"issueyear": "2026",
+"geolocalarea": "West Point Grey",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.212919,
+49.2596046
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.212919,
+"lat": 49.2596046
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2025-02966",
+"uid": "e96ffa8d60bbe2892e174f065a3460f0c93c4e6c",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "1988 W 61ST AVENUE #3, Vancouver, BC",
+"lat": 49.216075,
+"lon": -123.152463,
+"work_type": "new",
+"use_class": "residential",
+"value": 403438,
+"applicant": "Rondy Zhang",
+"contractor": "Kouver Custom Homes Ltd",
+"description": "Low Density Housing - New Building - To construct a 2 storey Net Zero Laneway House ($403,438) with an attached garage and a carport, providing a total of 4 parking spaces, having vehicular access from the 20' lane. Note: per Section 10.33.1(e), the CHBA Net Zero building has applied a floor area exclusion of 19% of permitted floor area (subject to stated caps and conditions). Note: The entire building, INCLUDING THE ATTACHED GARAGE, to be sprinklered to NFPA 13R Note: This is a 2 storey building pursuant to the Zoning & Development By-law. 1.\\tCovenant registered at the Land Title Office under CB2836726 2.\\tNo Strata Titling permitted 3.\\tMechanical unit proposed \u2013 Exterior component located beside the door to the garage, Interior component located in the exterior accessed mechanical room 4.\\tSchedule A: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) 5.\\tSchedule B: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) Architectural 6.\\tSchedule B: (C. Shen) P.Eng (604-771-0116) Structural 7.\\tSchedule B: (J. Z. Jin) P.Eng (604-362-7021) Geotechnical 8.\\tSchedule D: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) 9.\\tHPO: Residential Builder \u2013 Kouver Custom Homes Ltd. Address Information: BUILDING 2 #3-1988 W 61st Av - Laneway House (2.0 storey) Address and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. Note: As a result of the addition of a laneway house, the main house / principal dwelling will be assigned a suite number and the site will be as follows: #1-1988 W 61st Av - Principal Dwelling #3-1988 W 61st Av - Laneway House Note: See DB-2025-03378 for Bldg 1 on site (principal bldg) addressed #1-1988 W 61st Av. ***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2025-02966",
+"permitnumbercreateddate": "2025-06-30",
+"issuedate": "2026-08-19",
+"permitelapseddays": 415,
+"projectvalue": 403437.5,
+"typeofwork": "New Building",
+"address": "1988 W 61ST AVENUE #3, Vancouver, BC",
+"projectdescription": "Low Density Housing - New Building - To construct a 2 storey Net Zero Laneway House ($403,438) with an attached garage and a carport, providing a total of 4 parking spaces, having vehicular access from the 20' lane.\n\nNote: per Section 10.33.1(e), the CHBA Net Zero building has applied a floor area exclusion of 19% of permitted floor area (subject to stated caps and conditions). \n\nNote: The entire building, INCLUDING THE ATTACHED GARAGE, to be sprinklered to NFPA 13R \n\nNote:  This is a 2 storey building pursuant to the Zoning & Development By-law.\n\n1.\\tCovenant registered at the Land Title Office under CB2836726\n2.\\tNo Strata Titling permitted\n3.\\tMechanical unit proposed \u2013 Exterior component located beside the door to the garage, Interior component located in the exterior accessed mechanical room\n4.\\tSchedule A: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018)\n5.\\tSchedule B: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018) Architectural\n6.\\tSchedule B: (C. Shen) P.Eng (604-771-0116) Structural\n7.\\tSchedule B: (J. Z. Jin) P.Eng (604-362-7021) Geotechnical\n8.\\tSchedule D: (F. C. Goncalves Martines de Barros) P.Eng (778-873-2018)\n9.\\tHPO: Residential Builder \u2013 Kouver Custom Homes Ltd.\n\nAddress Information:\nBUILDING 2\n#3-1988 W 61st Av - Laneway House (2.0 storey)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\nNote: As a result of the addition of a laneway house, the main house / principal dwelling will be assigned a suite number and the site will be as follows:\n#1-1988 W 61st Av - Principal Dwelling \n#3-1988 W 61st Av - Laneway House\n\nNote: See DB-2025-03378 for Bldg 1 on site (principal bldg) addressed #1-1988 W 61st Av.\n\n***This permit is issued under the VBBL 2019, with updated energy requirements as per bylaw # 12997 effective Jan 01, 2022.***",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "Rondy Zhang",
+"applicantaddress": "1862 Lilac Drive\r\nSurrey, BC  V4A 5C9",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Laneway House"
+],
+"buildingcontractor": "Kouver Custom Homes Ltd",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Kerrisdale",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1524627,
+49.2160752
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1524627,
+"lat": 49.2160752
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-00980",
+"uid": "f6247f7296bb8e2d73de7eed4b97250e316bed05",
+"record_type": "issued",
+"issue_date": "2026-08-19",
+"address": "4470 MAPLE CRESCENT, Vancouver, BC V6J 4B3",
+"lat": 49.245953,
+"lon": -123.148251,
+"work_type": "demolition",
+"use_class": "residential",
+"value": 40000,
+"applicant": "Jane Vorbrodt DBA: Kuno Architecture Inc.",
+"contractor": "J&R Excavation & Demolition Ltd.",
+"description": "Low Density Housing - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1925) on this site \u2013 declared non rental. \u2022 This demolition permit also permits abatement work to be completed to WorkSafe standards. \u2022 This permit is subject to the Green Demolition Bylaw (11023) with a recycling requirement of 75% of non-hazardous construction materials. Note: Pre-1910 houses will need to salvage a minimum of 3 metric tonnes of wood. Demolition Contractor: J&R Excavation & Demolition Ltd. QP: Steven Seewald (ALARA Environmental Health and Safety Ltd.)",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-00980",
+"permitnumbercreateddate": "2026-03-24",
+"issuedate": "2026-08-19",
+"permitelapseddays": 148,
+"projectvalue": 40000.0,
+"typeofwork": "Demolition / Deconstruction",
+"address": "4470 MAPLE CRESCENT, Vancouver, BC V6J 4B3",
+"projectdescription": "Low Density Housing - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1925) on this site \u2013 declared non rental.\n\n\u2022  This demolition permit also permits abatement work to be completed to WorkSafe standards. \n\n\u2022  This permit is subject to the Green Demolition Bylaw (11023) with a recycling requirement of 75% of non-hazardous construction materials. Note: Pre-1910 houses will need to salvage a minimum of 3 metric tonnes of wood.\n\nDemolition Contractor: J&R Excavation & Demolition Ltd. \n\nQP: Steven Seewald (ALARA Environmental Health and Safety Ltd.)",
+"permitcategory": null,
+"applicant": "Jane Vorbrodt DBA: Kuno Architecture Inc.",
+"applicantaddress": "580 E. 29th Avenue\r\nVancouver, BC  V5V 2R9",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "J&R Excavation & Demolition Ltd.",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Shaughnessy",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1482505,
+49.245953
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1482505,
+"lat": 49.245953
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2025-05277",
+"uid": "1f7cb95dec329fc5ee6bb8b256886f2e8e9d430b",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "638 W 19TH AVENUE, Vancouver, BC V5Z 1X1",
+"lat": 49.254018,
+"lon": -123.118884,
+"work_type": "addition",
+"use_class": "residential",
+"value": 18000,
+"applicant": "Joe Muego DBA: Hearth Architectural",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - Exterior alterations to provide improvement to this existing single detached house on this existing site. Scope of work: 1. new 131.70 sqft deck and stairs at rear 2. validate 27.35sqft unauthorized floor area (11'11 3/4 X 2'3 3/8\") at the rear of the lower floor level in the mechanical room OK for field review per O. Luo, Dec 23nd, 2025 Note to applicant: The services of a structural engineer may be required, based upon site inspection by the District Building Inspector.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2025-05277",
+"permitnumbercreateddate": "2025-12-23",
+"issuedate": "2026-08-20",
+"permitelapseddays": 240,
+"projectvalue": 18000.0,
+"typeofwork": "Addition / Alteration",
+"address": "638 W 19TH AVENUE, Vancouver, BC V5Z 1X1",
+"projectdescription": "Field Review - Addition / Alteration - Exterior alterations to provide improvement to this existing single detached house on this existing site.\nScope of work:\n1. new 131.70 sqft deck and stairs at rear\n2. validate 27.35sqft unauthorized floor area (11'11 3/4 X 2'3 3/8\") at the rear of the lower floor level in the mechanical room\n\nOK for field review per O. Luo, Dec 23nd, 2025\n\nNote to applicant: The services of a structural engineer may be required, based upon site inspection by the District Building Inspector.",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Joe Muego DBA: Hearth Architectural",
+"applicantaddress": "#1100-1200 West 73rd Avenue\r\nVancouver, BC  V6P 6G5",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "South Cambie",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1188842,
+49.254018
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1188842,
+"lat": 49.254018
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-01532",
+"uid": "2f002670d8a94d72e50e38ac383159e378c82ad4",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "2720 WARD STREET, Vancouver, BC V5R 4S6",
+"lat": 49.239516,
+"lon": -123.049249,
+"work_type": "demolition",
+"use_class": "residential",
+"value": 40000,
+"applicant": "VictorEric Design Group Ltd.",
+"contractor": "Foralis Environmental Inc",
+"description": "Enquiry Centre - Demolition / Deconstruction - To demolish the existing single detached house ($40,000) on this site - declared non-rental Green Demo 75% recycling requirement Demo: Krithik Dubey - Foralis Environmental Inc info@foralisenvironmental.ca - 778-798-6782 QP: Tarlochan Sunar - MCA Environmental Consulting Inc terry.sunar@gmail.com - 604-805-1344",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-01532",
+"permitnumbercreateddate": "2026-05-08",
+"issuedate": "2026-08-20",
+"permitelapseddays": 104,
+"projectvalue": 40000.0,
+"typeofwork": "Demolition / Deconstruction",
+"address": "2720 WARD STREET, Vancouver, BC V5R 4S6",
+"projectdescription": "Enquiry Centre - Demolition / Deconstruction - To demolish the existing single detached house ($40,000) on this site - declared non-rental \n\nGreen Demo 75% recycling requirement\n\nDemo: Krithik Dubey - Foralis Environmental Inc\ninfo@foralisenvironmental.ca - 778-798-6782\n\nQP: Tarlochan Sunar - MCA Environmental Consulting Inc\nterry.sunar@gmail.com - 604-805-1344",
+"permitcategory": null,
+"applicant": "VictorEric Design Group Ltd.",
+"applicantaddress": "#-220-3410 LOUGHEED HIGHWAY\r\nVANCOUVER, BC  V5M 2A4",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "Foralis Environmental Inc",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Renfrew-Collingwood",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0492485,
+49.2395157
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0492485,
+"lat": 49.2395157
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-01367",
+"uid": "3a7bbf05820691d751626c7decfbdaa5a3ae8e2b",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "1001 RICHARDS STREET, Vancouver, BC V6B 1J6",
+"lat": 49.277945,
+"lon": -123.121699,
+"work_type": "addition",
+"use_class": "residential",
+"value": 846797,
+"applicant": "Nikhil Mulgaonkar DBA: Gunn Consultants",
+"contractor": "Action Electric Ltd",
+"description": "High Density Housing / Commercial - Addition / Alteration - Interior alteration for two elevators to fully modernized to meet CSA-B44 requirements and to upgrade fire alarm in this existing multiple high-rise dwelling building. Notes: 1. Main Recall Level - Level 1 2. Alternate Recall Level - Level 2 3. Permit reviewed and approved to VBBL #14343 (2025)",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-01367",
+"permitnumbercreateddate": "2026-04-24",
+"issuedate": "2026-08-20",
+"permitelapseddays": 118,
+"projectvalue": 846797.07,
+"typeofwork": "Addition / Alteration",
+"address": "1001 RICHARDS STREET, Vancouver, BC V6B 1J6",
+"projectdescription": "High Density Housing / Commercial - Addition / Alteration - Interior alteration for two elevators to fully modernized to meet CSA-B44 requirements and to upgrade fire alarm in this existing multiple high-rise dwelling building.\n\n\nNotes:\n1. Main Recall Level - Level 1\n2. Alternate Recall Level - Level 2\n3. Permit reviewed and approved to VBBL #14343 (2025)",
+"permitcategory": null,
+"applicant": "Nikhil Mulgaonkar DBA: Gunn Consultants",
+"applicantaddress": "1020 mainland street\r\nvancouver, BC  V6B2T5",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Dwelling Unit"
+],
+"buildingcontractor": "Action Electric Ltd",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Downtown",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.121699,
+49.2779446
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.121699,
+"lat": 49.2779446
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02227",
+"uid": "78ed95c017c799b7a355b0afb56dfad29d89a457",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "5750 CAMBIE STREET, Vancouver, BC V5Z 3A6",
+"lat": 49.232693,
+"lon": -123.116015,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 250000,
+"applicant": "Concrete Cashmere DBA: Concrete Cashmere",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - Interior alterations to combine unit #415 and #420 into one unit and provide tenant improvement to a new Health Care Office on the 4th floor of this existing mixed-use building on this site. Schedule A - CRP - Eizaburo Kibayashi - 778-861-9201 Schedule B - ARCH - Eizaburo Kibayashi - 778-861-9201 Schedule B - MECH - Satwik Shetty - 778-360-2153 Schedule B - ELEC - Abdul El-Haddad - 778-360-2153",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02227",
+"permitnumbercreateddate": "2026-07-06",
+"issuedate": "2026-08-20",
+"permitelapseddays": 45,
+"projectvalue": 250000.0,
+"typeofwork": "Addition / Alteration",
+"address": "5750 CAMBIE STREET, Vancouver, BC V5Z 3A6",
+"projectdescription": "Field Review - Addition / Alteration - Interior alterations to combine unit #415 and #420 into one unit and provide tenant improvement to a new Health Care Office on the 4th floor of this existing mixed-use building on this site.\n\nSchedule A - CRP - Eizaburo Kibayashi - 778-861-9201\nSchedule B - ARCH - Eizaburo Kibayashi - 778-861-9201\nSchedule B - MECH - Satwik Shetty - 778-360-2153\nSchedule B - ELEC - Abdul El-Haddad - 778-360-2153",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Concrete Cashmere DBA: Concrete Cashmere",
+"applicantaddress": "838 W Hastings St\r\n680\r\nVancouver, BC  V6C 0A6",
+"propertyuse": [
+"Office Uses"
+],
+"specificusecategory": [
+"Health Care Office"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Oakridge",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1160145,
+49.2326926
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1160145,
+"lat": 49.2326926
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02244",
+"uid": "7cd8b17cfc72274c6b461dc68bad0e91018900f9",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "5750 CAMBIE STREET, Vancouver, BC V5Z 3A6",
+"lat": 49.232693,
+"lon": -123.116015,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 600000,
+"applicant": "Ameer Abu-ulba DBA: Seasons Contracting Ltd.",
+"contractor": "Seasons Contracting Ltd",
+"description": "Field Review - Addition / Alteration - #430 Interior alterations to provide first tenant improvement to a new Health Care Office in this unit #430 on the 4th floor of this existing mixed-use building on this site. Ok for Field Review per J. Zhang, July 16, 2026 Schedule A & Schedule B Architectural- Andrew Igel - 778-839-4260, aigel@igel-arch.com Schedule B Mechanical - Yoko Matsuyama - 778-970-1772, info@henaconsulting.ca",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02244",
+"permitnumbercreateddate": "2026-07-06",
+"issuedate": "2026-08-20",
+"permitelapseddays": 45,
+"projectvalue": 600000.0,
+"typeofwork": "Addition / Alteration",
+"address": "5750 CAMBIE STREET, Vancouver, BC V5Z 3A6",
+"projectdescription": "Field Review - Addition / Alteration - #430\nInterior alterations to provide first tenant improvement to a new Health Care Office in this unit #430 on the 4th floor of this existing mixed-use building on this site.\n\nOk for Field Review per J. Zhang, July 16, 2026\n\nSchedule A & Schedule B Architectural- Andrew Igel - 778-839-4260, aigel@igel-arch.com\nSchedule B Mechanical - Yoko Matsuyama - 778-970-1772, info@henaconsulting.ca",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Ameer Abu-ulba DBA: Seasons Contracting Ltd.",
+"applicantaddress": "#302 A-33771 GERORGE FERGUSON WAY\r\nAbbotsford, BC  V2S 2M5",
+"propertyuse": [
+"Office Uses"
+],
+"specificusecategory": [
+"Health Care Office"
+],
+"buildingcontractor": "Seasons Contracting Ltd",
+"buildingcontractoraddress": "5285 Willet Rd  \r\nAbbotsford, BC  V3G 2E8",
+"issueyear": "2026",
+"geolocalarea": "Oakridge",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1160145,
+49.2326926
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1160145,
+"lat": 49.2326926
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2024-03501",
+"uid": "7e59879ea8ae3061347ec74e01928726480700b3",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "3730 NANAIMO STREET, Vancouver, BC V5N 5H3",
+"lat": 49.251199,
+"lon": -123.056169,
+"work_type": "new",
+"use_class": "residential",
+"value": 1230000,
+"applicant": "james ma DBA: designer",
+"contractor": "LEWIS VANCOUVER CONSTRUCTION LTD",
+"description": "High Density Housing / Commercial - New Building - To construct a 4-unit Multiple Dwelling \"Multiplex\" with 2 surface parking spaces having access from the lane. VBBL 2019 - NFPA 13R with Bulletin 2025-003-BU. - Part 5.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2024-03501",
+"permitnumbercreateddate": "2024-09-11",
+"issuedate": "2026-08-20",
+"permitelapseddays": 708,
+"projectvalue": 1230000.0,
+"typeofwork": "New Building",
+"address": "3730 NANAIMO STREET, Vancouver, BC V5N 5H3",
+"projectdescription": "High Density Housing / Commercial - New Building - To construct a 4-unit Multiple Dwelling \"Multiplex\" with 2 surface parking spaces having access from the lane. \n\nVBBL 2019 - NFPA 13R with Bulletin 2025-003-BU. - Part 5.",
+"permitcategory": null,
+"applicant": "james ma DBA: designer",
+"applicantaddress": "5743 Clinton Street\r\nBurnaby, BC  V5J 2M4",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Multiple Dwelling"
+],
+"buildingcontractor": "LEWIS VANCOUVER CONSTRUCTION LTD",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Renfrew-Collingwood",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0561695,
+49.2511989
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0561695,
+"lat": 49.2511989
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-02506",
+"uid": "9fa6a392bf49fa0ef48b03697733bdff1524d396",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "1307 W 46TH AVENUE, Vancouver, BC V6M 2K4",
+"lat": 49.229809,
+"lon": -123.135254,
+"work_type": "addition",
+"use_class": "residential",
+"value": 140000,
+"applicant": "Arjun Nijjar",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - Exterior and interior alterations to provide improvements to this existing single detached house on this lot OK for DB Field Review per S. Shin Jul 24, 26",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-02506",
+"permitnumbercreateddate": "2026-07-24",
+"issuedate": "2026-08-20",
+"permitelapseddays": 27,
+"projectvalue": 140000.0,
+"typeofwork": "Addition / Alteration",
+"address": "1307 W 46TH AVENUE, Vancouver, BC V6M 2K4",
+"projectdescription": "Field Review - Addition / Alteration - Exterior and interior alterations to provide improvements to this existing single detached house on this lot\n\nOK for DB Field Review per S. Shin Jul 24, 26",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Arjun Nijjar",
+"applicantaddress": "16198 89a ave\r\nSurrey, BC  V4N2Z4",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Oakridge",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1352537,
+49.2298092
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1352537,
+"lat": 49.2298092
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02818",
+"uid": "a2733d07ba1ffa201db180b0edf9cfadc8bea1a9",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "838 DRAKE STREET, Vancouver, BC",
+"lat": 49.27676,
+"lon": -123.129303,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 5000,
+"applicant": "Eric Law",
+"contractor": null,
+"description": "Enquiry Centre - Addition / Alteration - Interior alterations to reconfigure the layout of the existing office on site. Scope of work includes reducing the length of interior partitions. Related to DP-2026-00636",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02818",
+"permitnumbercreateddate": "2026-08-20",
+"issuedate": "2026-08-20",
+"permitelapseddays": 0,
+"projectvalue": 5000.0,
+"typeofwork": "Addition / Alteration",
+"address": "838 DRAKE STREET, Vancouver, BC",
+"projectdescription": "Enquiry Centre - Addition / Alteration - Interior alterations to reconfigure the layout of the existing office on site.\n\nScope of work includes reducing the length of interior partitions.\n\nRelated to DP-2026-00636",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Eric Law",
+"applicantaddress": "4300 North Fraser Way\r\nBurnaby, BC  V5J0B3",
+"propertyuse": [
+"Retail Uses"
+],
+"specificusecategory": [
+"Retail Store"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Downtown",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1293029,
+49.27676
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1293029,
+"lat": 49.27676
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2025-04398",
+"uid": "aa54afa49807299c6fc7973c5ffc04d89aa69408",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "2615 E 18TH AVENUE, Vancouver, BC V5M 2P6",
+"lat": 49.254291,
+"lon": -123.051647,
+"work_type": "new",
+"use_class": "residential",
+"value": 1100000,
+"applicant": "Vincent Wan DBA: Vincent Wan Design",
+"contractor": "JBM Pacific Construction Ltd",
+"description": "High Density Housing / Commercial - New Building - To construct a three-storey, three dwelling unit \"Multiplex\" with with a total of three surface parking spaces having vehicular access from the lane. BRB Notes: 1. Reviewed under 2025 VBBL 2. Sprinkler to Modified NFPA 13R per Bulletin 2025-003-BU 3. Part 5 Design",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2025-04398",
+"permitnumbercreateddate": "2025-10-10",
+"issuedate": "2026-08-20",
+"permitelapseddays": 314,
+"projectvalue": 1100000.0,
+"typeofwork": "New Building",
+"address": "2615 E 18TH AVENUE, Vancouver, BC V5M 2P6",
+"projectdescription": "High Density Housing / Commercial - New Building - To construct a three-storey, three dwelling unit \"Multiplex\" with with a total of three surface parking spaces having vehicular access from the lane. \n\nBRB Notes:\n1. Reviewed under 2025 VBBL\n2. Sprinkler to Modified NFPA 13R per Bulletin 2025-003-BU\n3. Part 5 Design",
+"permitcategory": null,
+"applicant": "Vincent Wan DBA: Vincent Wan Design",
+"applicantaddress": "4038 Toronto Street\r\nPort Coquitlam, BC  V3B6X8",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Multiple Dwelling"
+],
+"buildingcontractor": "JBM Pacific Construction Ltd",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Renfrew-Collingwood",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0516466,
+49.2542912
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0516466,
+"lat": 49.2542912
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-01507",
+"uid": "b2cc47fb0885a2cbf36e196807d933ddfd33862c",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "6648 BUTLER STREET, Vancouver, BC V5S 3K9",
+"lat": 49.223143,
+"lon": -123.033309,
+"work_type": "demolition",
+"use_class": "residential",
+"value": 40000,
+"applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+"contractor": "Bhullar Excavating and Demolition",
+"description": "Low Density Housing - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1964) on this site \u2013 declared rental. \u2022 This demolition permit also permits abatement work to be completed to WorkSafe standards. Demolition Contractor: Bhullar Excavating & Demolition Inc. (Baghail Bhullar)_ 604.617.9882 QP: Peter R. Van Bakel_BCQP Environmental Inc.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-01507",
+"permitnumbercreateddate": "2026-05-06",
+"issuedate": "2026-08-20",
+"permitelapseddays": 106,
+"projectvalue": 40000.0,
+"typeofwork": "Demolition / Deconstruction",
+"address": "6648 BUTLER STREET, Vancouver, BC V5S 3K9",
+"projectdescription": "Low Density Housing - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1964) on this site \u2013 declared rental.\n\u2022  This demolition permit also permits abatement work to be completed to WorkSafe standards.\nDemolition Contractor: Bhullar Excavating & Demolition Inc. (Baghail Bhullar)_ 604.617.9882\nQP: Peter R. Van Bakel_BCQP Environmental Inc.",
+"permitcategory": null,
+"applicant": "Amardeep Dhillon DBA: space smart home design ltd.",
+"applicantaddress": "1307 East 55th Avenue\r\nVancouver, BC  V5X 1P4",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "Bhullar Excavating and Demolition",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Killarney",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0333094,
+49.2231427
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0333094,
+"lat": 49.2231427
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-01533",
+"uid": "b6dc1b450b5ec1284f90ad1136852f7c47486cf9",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "2726 WARD STREET, Vancouver, BC",
+"lat": 49.239467,
+"lon": -123.049128,
+"work_type": "demolition",
+"use_class": "residential",
+"value": 40000,
+"applicant": "VictorEric Design Group Ltd.",
+"contractor": "Foralis Environmental Inc",
+"description": "Enquiry Centre - Demolition / Deconstruction - To demolish the existing single detached house ($40,000) on this site - declared non rental Demo: Krithik Dubey - Foralis Environmental Inc info@foralisenvironmental.ca - 778-798-6782 QP: Tarlochan Sunar - MCA Environmental Consulting Inc terry.sunar@gmail.com - 604-805-1344 Related permit: BP-2026-01532 SU-2026-00480",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-01533",
+"permitnumbercreateddate": "2026-05-08",
+"issuedate": "2026-08-20",
+"permitelapseddays": 104,
+"projectvalue": 40000.0,
+"typeofwork": "Demolition / Deconstruction",
+"address": "2726 WARD STREET, Vancouver, BC",
+"projectdescription": "Enquiry Centre - Demolition / Deconstruction - To demolish the existing single detached house ($40,000) on this site - declared non rental \n\nDemo: Krithik Dubey - Foralis Environmental Inc\ninfo@foralisenvironmental.ca - 778-798-6782\n\nQP: Tarlochan Sunar - MCA Environmental Consulting Inc\nterry.sunar@gmail.com - 604-805-1344\n\nRelated permit: \nBP-2026-01532\nSU-2026-00480",
+"permitcategory": null,
+"applicant": "VictorEric Design Group Ltd.",
+"applicantaddress": "#-220-3410 LOUGHEED HIGHWAY\r\nVANCOUVER, BC  V5M 2A4",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "Foralis Environmental Inc",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Renfrew-Collingwood",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.049128,
+49.2394673
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.049128,
+"lat": 49.2394673
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2025-02705",
+"uid": "ce20094b8a3acc7564f278aaaa2b1ba6ec5e570a",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "3730 NANAIMO STREET, Vancouver, BC V5N 5H3",
+"lat": 49.251199,
+"lon": -123.056169,
+"work_type": "demolition",
+"use_class": "residential",
+"value": 60000,
+"applicant": "james ma DBA: designer",
+"contractor": "JVT EXCAVATING & DEMOLITION LTD",
+"description": "Enquiry Centre - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1931) on this site. Demo Contractor: JVT excavating & demolition ltd. Sukh Kang - 778-893-1643 Note: 1) Demo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit. 2) This permit is subject to the Green Demolition Bylaw (11023) with a recycling requirement of 75 percent of non-hazardous construction materials. Pre-1910 houses will need to salvage a minimum of 3 metric tonnes of wood. 3) Recycling & Reuse Plan For Green Demolition & Wood Salvage to be provided prior to the issuance of this Green Demolition Permit.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2025-02705",
+"permitnumbercreateddate": "2025-06-13",
+"issuedate": "2026-08-20",
+"permitelapseddays": 433,
+"projectvalue": 60000.0,
+"typeofwork": "Demolition / Deconstruction",
+"address": "3730 NANAIMO STREET, Vancouver, BC V5N 5H3",
+"projectdescription": "Enquiry Centre - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1931) on this site. \r\n\r\nDemo Contractor: JVT excavating & demolition ltd.\r\nSukh Kang - 778-893-1643 \r\n\r\nNote: \r\n1) Demo to grade only. No soil disturbance or excavation of soil other than that which is incidental to the demolition is permitted under this permit.\r\n2) This permit is subject to the Green Demolition Bylaw (11023) with a recycling requirement of 75 percent of non-hazardous construction materials. Pre-1910 houses will need to salvage a minimum of 3 metric tonnes of wood.\r\n3) Recycling & Reuse Plan For Green Demolition & Wood Salvage to be provided prior to the issuance of this Green Demolition Permit.",
+"permitcategory": null,
+"applicant": "james ma DBA: designer",
+"applicantaddress": "5743 Clinton Street\r\nBurnaby, BC  V5J 2M4",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "JVT EXCAVATING & DEMOLITION LTD",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Renfrew-Collingwood",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0561695,
+49.2511989
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0561695,
+"lat": 49.2511989
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02739",
+"uid": "d1c0ab7ae510bc260eab0e77defe13c9485b2017",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "8388 GRANVILLE STREET, Vancouver, BC",
+"lat": 49.21016,
+"lon": -123.140387,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 150000,
+"applicant": "Sanny Chan DBA: Sanny Chan design group ltd",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - Interior alterations to change the use from Laundromat or Dry Cleaning Establishment to Retail store in this existing one-storey commercial building on this site. Ok for Field Review as per Jamie Z, Aug 14, 2026 Schedule A and B Arch provided by Eric Law, Architect, 604-505-2099, ericlaw.architect@gmail.com Schedule B Mech and Plumb provided by Alex Qi, Engineer, 778-323-1368, ali@liaengineering.com",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02739",
+"permitnumbercreateddate": "2026-08-14",
+"issuedate": "2026-08-20",
+"permitelapseddays": 6,
+"projectvalue": 150000.0,
+"typeofwork": "Addition / Alteration",
+"address": "8388 GRANVILLE STREET, Vancouver, BC",
+"projectdescription": "Field Review - Addition / Alteration - Interior alterations to change the use from Laundromat or Dry Cleaning Establishment to Retail store in this existing one-storey commercial building on this site.\n\nOk for Field Review as per Jamie Z, Aug 14, 2026\n\nSchedule A and B Arch provided by Eric Law, Architect, 604-505-2099, ericlaw.architect@gmail.com\nSchedule B Mech and Plumb provided by Alex Qi, Engineer, 778-323-1368, ali@liaengineering.com",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Sanny Chan DBA: Sanny Chan design group ltd",
+"applicantaddress": "8680 Cambie Road\r\nUnit 221\r\nRichmond , BC  V6X 4K1",
+"propertyuse": [
+"Retail Uses"
+],
+"specificusecategory": [
+"Retail Store"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Marpole",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1403865,
+49.2101604
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1403865,
+"lat": 49.2101604
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-00934",
+"uid": "ed94efb83402c8047ed0c9c8eb3c9bda5e609f14",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "6181 COMMERCIAL STREET, Vancouver, BC V5P 3P2",
+"lat": 49.227966,
+"lon": -123.068693,
+"work_type": "new",
+"use_class": "residential",
+"value": 800000,
+"applicant": "Kuldip Khakh",
+"contractor": "Sky Ride Construction",
+"description": "Low Density Housing - New Building - To construct a 2-storey single detached house ($800,000) with an attached garage, providing 1 parking space, having vehicular access from the Commercial Street (no lane). Note: The entire building to be sprinklered to NFPA 13D Note: This is a 2-storey building pursuant to the Zoning and Development By-Law 1. Covenant not required 2. Mechanical unit proposed (external component in rear yard, internal component in third half storey) 3. Schedule B: S. S. Dulay, P.Eng (604.603.7254) Structural & Geotechnical 4. HPO: Residential Builder- (Sky Ride Construction Ltd. #46409) Addresses assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. ***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-00934",
+"permitnumbercreateddate": "2026-03-20",
+"issuedate": "2026-08-20",
+"permitelapseddays": 153,
+"projectvalue": 800000.0,
+"typeofwork": "New Building",
+"address": "6181 COMMERCIAL STREET, Vancouver, BC V5P 3P2",
+"projectdescription": "Low Density Housing - New Building - To construct a 2-storey single detached house ($800,000) with an attached garage, providing 1 parking space, having vehicular access from the Commercial Street (no lane).\n \nNote: The entire building to be sprinklered to NFPA 13D\n \nNote: This is a 2-storey building pursuant to the Zoning and Development By-Law\n \n1. Covenant not required\n2. Mechanical unit proposed (external component in rear yard, internal component in third half storey)\n3.  Schedule B: S. S. Dulay, P.Eng (604.603.7254) Structural & Geotechnical\n4.  HPO: Residential Builder- (Sky Ride Construction Ltd. #46409)\n  \nAddresses assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "Kuldip Khakh",
+"applicantaddress": "9651 Patterson Road \r\nRichmond , BC  V6X1P8",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "Sky Ride Construction",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Victoria-Fraserview",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0686935,
+49.2279661
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0686935,
+"lat": 49.2279661
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02666",
+"uid": "f018023e629021ff1084c58b104217b8b363aecb",
+"record_type": "issued",
+"issue_date": "2026-08-20",
+"address": "1140 W PENDER STREET, Vancouver, BC V6E 4G1",
+"lat": 49.287593,
+"lon": -123.12209,
+"work_type": "addition",
+"use_class": "commercial",
+"value": 50000,
+"applicant": "Totalplan Admin DBA: Totalplan Inc.",
+"contractor": "TotalPlan Inc",
+"description": "Field Review - Addition / Alteration - #440 & #460 combining/ retaining #440 Interior alterations to provide improvements to the 4th floor to combine the existing office spaces (units #440 & #460 ) into one unit (retaining #440) in this existing commercial building on this site. Scope of work: remove demising wall, partition walls. Construction new partition walll for one new office. Electrical and Sprinkers to suit. Energy checklist is currently no longer required with your Building Permit (BP) application. Some supporting documents are still required at BP stage, specifically Envelope and HVAC, if applicable. Service Water Heating and Lighting supporting documents, if applicable, must be submitted with your related trades permits (e.g. electrical and plumbing).",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02666",
+"permitnumbercreateddate": "2026-08-10",
+"issuedate": "2026-08-20",
+"permitelapseddays": 10,
+"projectvalue": 50000.0,
+"typeofwork": "Addition / Alteration",
+"address": "1140 W PENDER STREET, Vancouver, BC V6E 4G1",
+"projectdescription": "Field Review - Addition / Alteration - #440 & #460 combining/ retaining #440\n\nInterior alterations to provide improvements to the 4th floor to combine the existing office spaces (units #440 & #460 ) into one unit (retaining #440) in this existing commercial building on this site. \n\nScope of work: remove demising wall, partition walls. Construction new partition walll for one new office. Electrical and Sprinkers to suit. \n\nEnergy checklist is currently no longer required with your Building Permit (BP) application.  Some supporting documents are still required at BP stage, specifically Envelope and HVAC, if applicable.  Service Water Heating and Lighting supporting documents, if applicable, must be submitted with your related trades permits (e.g. electrical and plumbing).",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Totalplan Admin DBA: Totalplan Inc.",
+"applicantaddress": "350 - 1095 West Pender Street\r\nVancouver, BC  V6E 2M6",
+"propertyuse": [
+"Office Uses"
+],
+"specificusecategory": [
+"General Office"
+],
+"buildingcontractor": "TotalPlan Inc",
+"buildingcontractoraddress": "1095 W Pender St  \r\nUnit 350\r\nVancouver, BC  V6E 2M6",
+"issueyear": "2026",
+"geolocalarea": "Downtown",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1220897,
+49.2875926
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1220897,
+"lat": 49.2875926
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-00585",
+"uid": "24977df67a8bd1e2e79a1a4dc16507686401471f",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "2117 W 46TH AVENUE, Vancouver, BC V6M 2L2",
+"lat": 49.230178,
+"lon": -123.15666,
+"work_type": "new",
+"use_class": "residential",
+"value": 665672,
+"applicant": "QI LI DBA: LQ Design GROUP Ltd",
+"contractor": "Rex Homes Limited",
+"description": "Low Density Housing - New Building - To construct a 2 storey single detached house ($665,672.50) with a carport in the laneway house, providing 3 parking space, having vehicular access from the 20' Lane. 1.\\tCovenant registered at the Land Title Office under CA9934482 2.\\tMechanical unit proposed \u2013 Exterior component located in court yard, Interior component located in second floor closet 3.\\tSchedule B: (S. GUO) P.Eng (778.926.0525) Structural & Geotechnical 4.\\tHPO: Residential Builder- Rex Homes Ltd. Note: The entire building to be sprinklered to NFPA 13D Note: This is a 2 storey building pursuant to the Zoning and Development By-Law Address Information: Building 1 #1-2117 W 46th Av - Principal Dwelling (1st-2nd levels) Address and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. ***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-00585",
+"permitnumbercreateddate": "2026-02-19",
+"issuedate": "2026-08-21",
+"permitelapseddays": 183,
+"projectvalue": 665672.5,
+"typeofwork": "New Building",
+"address": "2117 W 46TH AVENUE, Vancouver, BC V6M 2L2",
+"projectdescription": "Low Density Housing - New Building - To construct a 2 storey single detached house ($665,672.50) with a carport in the laneway house, providing 3 parking space, having vehicular access from the 20' Lane.\n\n1.\\tCovenant registered at the Land Title Office under CA9934482\n2.\\tMechanical unit proposed \u2013 Exterior component located in court yard, Interior component located in second floor closet\n3.\\tSchedule B: (S. GUO) P.Eng (778.926.0525) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Rex Homes Ltd.\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 1\n#1-2117 W 46th Av - Principal Dwelling (1st-2nd levels) \n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "QI LI DBA: LQ Design GROUP Ltd",
+"applicantaddress": "2161 LAWSON AVE \r\nWEST VANCOUVER, BC  V7V 2E1",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "Rex Homes Limited",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Kerrisdale",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1566599,
+49.2301776
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1566599,
+"lat": 49.2301776
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2025-04863",
+"uid": "4dd31210230c652e6fef5ea79ace9a4ac760fdd4",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "3539 COPLEY STREET, Vancouver, BC V5N 5B3",
+"lat": 49.250954,
+"lon": -123.05808,
+"work_type": "demolition",
+"use_class": "residential",
+"value": 40000,
+"applicant": "QI LI DBA: LQ Design GROUP Ltd",
+"contractor": "Bhullar Excavating and Demolition",
+"description": "Low Density Housing - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1943) on this site \u2013 declared rental. \u2022 This demolition permit also permits abatement work to be completed to WorkSafe standards. \u2022 This permit is subject to the Green Demolition Bylaw (11023) with a recycling requirement of 75% of non-hazardous construction materials. Note: Pre-1910 houses will need to salvage a minimum of 3 metric tonnes of wood. Demolition Contractor: Bhullar Excavating and Demolition Inc. (Baghail Bhullar) (778)-891-4556 QP: Kurt McInnes (Odin's Eye Inspection) (778)-968-4909",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2025-04863",
+"permitnumbercreateddate": "2025-11-21",
+"issuedate": "2026-08-21",
+"permitelapseddays": 273,
+"projectvalue": 40000.0,
+"typeofwork": "Demolition / Deconstruction",
+"address": "3539 COPLEY STREET, Vancouver, BC V5N 5B3",
+"projectdescription": "Low Density Housing - Demolition / Deconstruction - To demolish to grade this existing Single Detached House (1943) on this site \u2013 declared rental. \n\n\u2022  This demolition permit also permits abatement work to be completed to WorkSafe standards. \n\n\u2022  This permit is subject to the Green Demolition Bylaw (11023) with a recycling requirement of 75% of non-hazardous construction materials. Note: Pre-1910 houses will need to salvage a minimum of 3 metric tonnes of wood.\n\nDemolition Contractor: Bhullar Excavating and Demolition Inc. (Baghail Bhullar)   (778)-891-4556\n\nQP: Kurt McInnes (Odin's Eye Inspection)   (778)-968-4909",
+"permitcategory": null,
+"applicant": "QI LI DBA: LQ Design GROUP Ltd",
+"applicantaddress": "2161 LAWSON AVE \r\nWEST VANCOUVER, BC  V7V 2E1",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "Bhullar Excavating and Demolition",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Kensington-Cedar Cottage",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0580804,
+49.2509538
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0580804,
+"lat": 49.2509538
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2025-02901",
+"uid": "52b7bf11ebec0dc57032dc2afa9d119413fb53ad",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "1040 E 22ND AVENUE, Vancouver, BC V5V 1W3",
+"lat": 49.250639,
+"lon": -123.082987,
+"work_type": "addition",
+"use_class": "residential",
+"value": 85000,
+"applicant": "Paul Park DBA: Park Residential Designs",
+"contractor": null,
+"description": "Enquiry Centre - Addition / Alteration - To construct a detached one-car garage (13' x 21.29') at the rear of this existing Singled Detached House on this inside with lane site. Ok for BP - Enquiry Center, Jamie Z Drainage to the satisfaction of the DBI Schedule B, Structural & Geotechnical, Yatendra Kumar Sharma, P. Eng, 778-863-7076.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2025-02901",
+"permitnumbercreateddate": "2025-06-26",
+"issuedate": "2026-08-21",
+"permitelapseddays": 421,
+"projectvalue": 85000.0,
+"typeofwork": "Addition / Alteration",
+"address": "1040 E 22ND AVENUE, Vancouver, BC V5V 1W3",
+"projectdescription": "Enquiry Centre - Addition / Alteration - To construct a detached one-car garage (13' x 21.29') at the rear of this existing Singled Detached House on this inside with lane site.\n\nOk for BP - Enquiry Center, Jamie Z \n\nDrainage to the satisfaction of the DBI\n\nSchedule B, Structural & Geotechnical, Yatendra Kumar Sharma, P. Eng, 778-863-7076.",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Paul Park DBA: Park Residential Designs",
+"applicantaddress": "8082 Lurgan Road\r\nRichmond, BC  V6Y 1H7",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Kensington-Cedar Cottage",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.082987,
+49.2506393
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.082987,
+"lat": 49.2506393
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-00366",
+"uid": "6c349572a157af59fa0212c62540a463b41ffe05",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "408 N RENFREW STREET, Vancouver, BC",
+"lat": 49.288902,
+"lon": -123.043951,
+"work_type": "new",
+"use_class": "residential",
+"value": 1899000,
+"applicant": "Ye Yuan DBA: HNPA Architecture + Planning",
+"contractor": "Kentwood Homes Ltd",
+"description": "High Density Housing / Commercial - New Building - Building Permit for DP-2025-00602 To construct a three-storey five-unit Net Zero Multiple Dwelling \"Multiplex\" with four on-ground parking stalls, having vehicular access from the lane. Scope of work includes installation of solar panels on the roof, an electrical shed, a garbage shed, and three EV chargers at the rear of the lot. Building to be sprinklered to NFPA 13D. ***REVIEWED UNDER VBBL 2025 WITH AMENDMENTS EFFECTIVE ON JAN 20, 2026*** Building Review Branch Notes: - Controls, switches, and outlets shall comply with 3.8.5.7. - Exterior doors and windows shall comply with 9.7.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-00366",
+"permitnumbercreateddate": "2026-01-30",
+"issuedate": "2026-08-21",
+"permitelapseddays": 203,
+"projectvalue": 1899000.0,
+"typeofwork": "New Building",
+"address": "408 N RENFREW STREET, Vancouver, BC",
+"projectdescription": "High Density Housing / Commercial - New Building - Building Permit for DP-2025-00602 \n\nTo construct a three-storey five-unit Net Zero Multiple Dwelling \"Multiplex\" with four on-ground parking stalls, having vehicular access from the lane. Scope of work includes installation of solar panels on the roof, an electrical shed, a garbage shed, and three EV chargers at the rear of the lot. \n\nBuilding to be sprinklered to NFPA 13D. \n\n***REVIEWED UNDER VBBL 2025 WITH AMENDMENTS EFFECTIVE ON JAN 20, 2026***\n\nBuilding Review Branch Notes:\n- Controls, switches, and outlets shall comply with 3.8.5.7.\n- Exterior doors and windows shall comply with 9.7.",
+"permitcategory": null,
+"applicant": "Ye Yuan DBA: HNPA Architecture + Planning",
+"applicantaddress": "2983 W 41st Avenue\r\nvancouver, BC  V6N 3C8",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Multiple Dwelling"
+],
+"buildingcontractor": "Kentwood Homes Ltd",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Hastings-Sunrise",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0439506,
+49.2889025
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0439506,
+"lat": 49.2889025
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-02581",
+"uid": "6c5d3721294b4782b2ebbff4fac8ae4446cd0633",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "552 CLARK DRIVE, Vancouver, BC",
+"lat": 49.279849,
+"lon": -123.077092,
+"work_type": "addition",
+"use_class": "industrial",
+"value": 10000,
+"applicant": "Simon Boisvert DBA: BC Home Drafting & Consulting Ltd.",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - Interior alterations to change the use from Wholesale to Food or Beverage Products Manufacturing - Class A in this unit of this existing commercial building. Ok for Field Review as per Jamie Z, July 30, 2026 Schedule B Mech and Plumb provided by John Makepeace, Engineer, 604-538-0764, john@jadewest.com",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-02581",
+"permitnumbercreateddate": "2026-07-30",
+"issuedate": "2026-08-21",
+"permitelapseddays": 22,
+"projectvalue": 10000.0,
+"typeofwork": "Addition / Alteration",
+"address": "552 CLARK DRIVE, Vancouver, BC",
+"projectdescription": "Field Review - Addition / Alteration - Interior alterations to change the use from Wholesale to Food or Beverage Products Manufacturing - Class A in this unit of this existing commercial building.\n\nOk for Field Review as per Jamie Z, July 30, 2026\n\nSchedule B Mech and Plumb provided by John Makepeace, Engineer, 604-538-0764, john@jadewest.com",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Simon Boisvert DBA: BC Home Drafting & Consulting Ltd.",
+"applicantaddress": "#304 - 3525 W Broadway\r\nVancouver, BC  V6R 2B5",
+"propertyuse": [
+"Manufacturing Uses"
+],
+"specificusecategory": [
+"Food or Beverage Prod Mfg-Class A"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Grandview-Woodland",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0770918,
+49.2798486
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0770918,
+"lat": 49.2798486
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02799",
+"uid": "6d2754dafbbc4ba594c2de9fafd8cf5b829ef098",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "1350 W 14TH AVENUE #8, Vancouver, BC V6H 1R1",
+"lat": 49.258596,
+"lon": -123.135193,
+"work_type": "addition",
+"use_class": "residential",
+"value": 100000,
+"applicant": "Simon Boisvert DBA: BC Home Drafting & Consulting Ltd.",
+"contractor": "Sage Construction Ltd",
+"description": "Direct to Inspections - Addition / Alteration - #8 - 1350 W 14th Ave Interior alterations to provide residential improvement to an existing dwelling unit at #8 - 1350 W 14th Ave. on the eighth floor of this existing multiple dwelling building on the site. Okay for DTI per A. Best",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02799",
+"permitnumbercreateddate": "2026-08-18",
+"issuedate": "2026-08-21",
+"permitelapseddays": 3,
+"projectvalue": 100000.0,
+"typeofwork": "Addition / Alteration",
+"address": "1350 W 14TH AVENUE #8, Vancouver, BC V6H 1R1",
+"projectdescription": "Direct to Inspections - Addition / Alteration - #8 - 1350 W 14th Ave\n\nInterior alterations to provide residential improvement to an existing dwelling unit at #8 - 1350 W 14th Ave. on the eighth floor of this existing multiple dwelling building on the site.\n\nOkay for DTI per A. Best",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Simon Boisvert DBA: BC Home Drafting & Consulting Ltd.",
+"applicantaddress": "#304 - 3525 W Broadway\r\nVancouver, BC  V6R 2B5",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Multiple Dwelling"
+],
+"buildingcontractor": "Sage Construction Ltd",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Fairview",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1351933,
+49.2585957
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1351933,
+"lat": 49.2585957
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02789",
+"uid": "86d2eb9189f603c8131aed209fe127973cf6ba11",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "770 E 61ST AVENUE, Vancouver, BC V5X 2C2",
+"lat": 49.214551,
+"lon": -123.088904,
+"work_type": "addition",
+"use_class": "residential",
+"value": 30000,
+"applicant": "Anna Tonrungroj Lee",
+"contractor": null,
+"description": "Direct to Inspections - Addition / Alteration - Interior alterations to renovate this existing Single Detached House on this site. Okay for DTI per Jamie Z.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02789",
+"permitnumbercreateddate": "2026-08-18",
+"issuedate": "2026-08-21",
+"permitelapseddays": 3,
+"projectvalue": 30000.0,
+"typeofwork": "Addition / Alteration",
+"address": "770 E 61ST AVENUE, Vancouver, BC V5X 2C2",
+"projectdescription": "Direct to Inspections - Addition / Alteration - Interior alterations to renovate this existing Single Detached House on this site.\n\nOkay for DTI per Jamie Z.",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Anna Tonrungroj Lee",
+"applicantaddress": "770 E 61st Ave\r\nVancouver , BC  V5X 2C2",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Sunset",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0889042,
+49.2145511
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0889042,
+"lat": 49.2145511
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-00587",
+"uid": "e22f043234f239085a675c9ac3e2a1cc5ffaf6d1",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "2117 W 46TH AVENUE #3, Vancouver, BC",
+"lat": 49.230169,
+"lon": -123.156688,
+"work_type": "new",
+"use_class": "residential",
+"value": 277000,
+"applicant": "QI LI DBA: LQ Design GROUP Ltd",
+"contractor": "Rex Homes Limited",
+"description": "Low Density Housing - New Building - To construct a 2 storey laneway house building ($277,000.00) with a carport, providing 3 parking space, having vehicular access from the 20' Lane. 1.\\tCovenant registered at the Land Title Office under CA9934482 2.\\tMechanical unit proposed \u2013 Exterior component located in court yard. 3.\\tSchedule B: (S. GUO) P.Eng (778.926.0525) Structural & Geotechnical 4.\\tHPO: Residential Builder- Rex Homes Ltd. Note: The entire building to be sprinklered to NFPA 13D Note: This is a 2 storey building pursuant to the Zoning and Development By-Law Address Information: Building 2 #3-2117 W 46th Av - Laneway House (2.0 storeys) Address and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection. ***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-00587",
+"permitnumbercreateddate": "2026-02-19",
+"issuedate": "2026-08-21",
+"permitelapseddays": 183,
+"projectvalue": 277000.0,
+"typeofwork": "New Building",
+"address": "2117 W 46TH AVENUE #3, Vancouver, BC",
+"projectdescription": "Low Density Housing - New Building - To construct a 2 storey laneway house building ($277,000.00) with a carport, providing 3 parking space, having vehicular access from the 20' Lane.\n\n1.\\tCovenant registered at the Land Title Office under CA9934482\n2.\\tMechanical unit proposed \u2013 Exterior component located in court yard.\n3.\\tSchedule B: (S. GUO) P.Eng (778.926.0525) Structural & Geotechnical\n4.\\tHPO: Residential Builder- Rex Homes Ltd.\n\nNote: The entire building to be sprinklered to NFPA 13D \n\nNote: This is a 2 storey building pursuant to the Zoning and Development By-Law\n\nAddress Information:\n\nBuilding 2\n#3-2117 W 46th Av - Laneway House (2.0 storeys)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address number is to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\n\n***This permit is issued under the 2025 Vancouver Building By-law #14343 effective September 15, 2025.***",
+"permitcategory": "New Build - Low Density Housing",
+"applicant": "QI LI DBA: LQ Design GROUP Ltd",
+"applicantaddress": "2161 LAWSON AVE \r\nWEST VANCOUVER, BC  V7V 2E1",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Laneway House"
+],
+"buildingcontractor": "Rex Homes Limited",
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Kerrisdale",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1566879,
+49.2301693
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1566879,
+"lat": 49.2301693
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02620",
+"uid": "e99034457274656fccfa38f59f0cc1d19cd812c0",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "45 W 23RD AVENUE, Vancouver, BC V5Y 2G8",
+"lat": 49.250226,
+"lon": -123.106086,
+"work_type": "addition",
+"use_class": "residential",
+"value": 90000,
+"applicant": "Jason Hyare DBA: Domyrenos",
+"contractor": "DOMYRENOVATIONS LTD.",
+"description": "Enquiry Centre - Addition / Alteration - 45 W 23 Avenue To remove the existing single car garage and to construct a 2 car detached garage at this existing single detached house on this inside with lane site. Okay for SIPS as per J.Ly, Aug 6, 2026 Schedule B (Structural, Geotechnical (temporary & permanent)) provided by ICA Engineers Inc.- Yatendra Kumar Sharma ph#: 778-863-7076 Separate permit required for any alterations to the principal dwelling.",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02620",
+"permitnumbercreateddate": "2026-08-06",
+"issuedate": "2026-08-21",
+"permitelapseddays": 15,
+"projectvalue": 90000.0,
+"typeofwork": "Addition / Alteration",
+"address": "45 W 23RD AVENUE, Vancouver, BC V5Y 2G8",
+"projectdescription": "Enquiry Centre - Addition / Alteration - 45 W 23 Avenue\n\nTo remove the existing single car garage and to construct a 2 car detached garage at this existing single detached house on this inside with lane site.\n\nOkay for SIPS as per J.Ly, Aug 6, 2026\n\nSchedule B (Structural, Geotechnical (temporary & permanent)) provided by ICA Engineers Inc.- Yatendra Kumar Sharma ph#: 778-863-7076\n\nSeparate permit required for any alterations to the principal dwelling.",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "Jason Hyare DBA: Domyrenos",
+"applicantaddress": "3625 Brighton Ave #250\r\nBurnaby, BC  V5A 2H3",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Single Detached House"
+],
+"buildingcontractor": "DOMYRENOVATIONS LTD.",
+"buildingcontractoraddress": "7069 WALES ST  \r\nVancouver, BC  V5S 2S2",
+"issueyear": "2026",
+"geolocalarea": "Riley Park",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.1060862,
+49.2502256
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.1060862,
+"lat": 49.2502256
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "DB-2026-01737",
+"uid": "eba0c92868ad916d97c4d383ac3047cd274b9b27",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "5175 DUMFRIES STREET, Vancouver, BC",
+"lat": 49.238312,
+"lon": -123.074155,
+"work_type": "addition",
+"use_class": "residential",
+"value": 1330000,
+"applicant": "Derek Chui",
+"contractor": null,
+"description": "Field Review - Addition / Alteration - 5175 Dumfries Exterior and interior alterations for mechanical and electrical upgrades to install outdoor heat pumps and a new outdoor electrical kiosk to this existing 2 storey Community Centre Building (Kensington Community Centre) at 5175 Dumfries on this site. Ok for Field Review as per DBI Jordan Dorras-Donnelly Ok for DB as per J. Kuhleitner Schedule A and B Mech and Plumb provided by Mark Yeung, Engineer, 604-559-8809, mark.yeung@rpeng.ca Schedule B Arch and D provided by Skyler Doornberg, Engineer, 604-738-0048, sdoornberg@rjc.ca Schedule B Elect provided by Aleksandr Gordeyev, Engineer, 778-997-5175, aleks@alegowest.ca Schedule B Struct provided by Colin Macmillan, Engineer, 604-738-0048, cmacmillan@rjc.ca Schedule B Arch Civil provided by Noah Chauvin, Engineer, 778-731-7908, nchauvin@aplinmartin.com",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "DB-2026-01737",
+"permitnumbercreateddate": "2026-05-26",
+"issuedate": "2026-08-21",
+"permitelapseddays": 87,
+"projectvalue": 1330000.0,
+"typeofwork": "Addition / Alteration",
+"address": "5175 DUMFRIES STREET, Vancouver, BC",
+"projectdescription": "Field Review - Addition / Alteration - 5175 Dumfries\n\nExterior and interior alterations for mechanical and electrical upgrades to install outdoor heat pumps and a new outdoor electrical kiosk to this existing 2 storey Community Centre Building (Kensington Community Centre) at 5175 Dumfries on this site.\n\nOk for Field Review as per DBI Jordan Dorras-Donnelly\nOk for DB as per J. Kuhleitner\n\nSchedule A and B Mech and Plumb provided by Mark Yeung, Engineer, 604-559-8809, mark.yeung@rpeng.ca\nSchedule B Arch and D provided by Skyler Doornberg, Engineer, 604-738-0048, sdoornberg@rjc.ca\nSchedule B Elect provided by Aleksandr Gordeyev, Engineer, 778-997-5175, aleks@alegowest.ca\nSchedule B Struct provided by Colin Macmillan, Engineer, 604-738-0048, cmacmillan@rjc.ca\nSchedule B Arch Civil provided by Noah Chauvin, Engineer, 778-731-7908, nchauvin@aplinmartin.com",
+"permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+"applicant": "Derek Chui",
+"applicantaddress": "4th Floor - 507 West Broadway\r\nVancouver, BC  V5Z 0B4",
+"propertyuse": [
+"Cultural/Recreational Uses"
+],
+"specificusecategory": [
+"Community Ctr./Neighbourhood House"
+],
+"buildingcontractor": null,
+"buildingcontractoraddress": null,
+"issueyear": "2026",
+"geolocalarea": "Kensington-Cedar Cottage",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0741548,
+49.2383124
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0741548,
+"lat": 49.2383124
+}
+}
+},
+{
+"source_city": "vancouver",
+"permit_id": "BP-2026-02589",
+"uid": "fbd4dfc02e5b2df0f46bff6a203aaaf80ef44383",
+"record_type": "issued",
+"issue_date": "2026-08-21",
+"address": "3139 E KENT AVENUE NORTH, Vancouver, BC",
+"lat": 49.206656,
+"lon": -123.040208,
+"work_type": "addition",
+"use_class": "residential",
+"value": 30000,
+"applicant": "O'Reilly Excavation Ltd. DBA: Mainline Drainage Ltd.",
+"contractor": "OREILLY EXCAVATION LTD.",
+"description": "Field Review - Addition / Alteration - Exterior alterations to replace the existing wood retaining wall with cement blocks in this existing multiple dwelling building on this site. Ok for Field Review by Jamie Z. on July 31, 2026",
+"first_seen": "2026-08-22",
+"raw": {
+"permitnumber": "BP-2026-02589",
+"permitnumbercreateddate": "2026-07-30",
+"issuedate": "2026-08-21",
+"permitelapseddays": 22,
+"projectvalue": 30000.0,
+"typeofwork": "Addition / Alteration",
+"address": "3139 E KENT AVENUE NORTH, Vancouver, BC",
+"projectdescription": "Field Review - Addition / Alteration - Exterior alterations to replace the existing wood retaining wall with cement blocks in this existing multiple dwelling building on this site.\n\nOk for Field Review by Jamie Z. on July 31, 2026",
+"permitcategory": "Renovation - Residential - Lower Complexity",
+"applicant": "O'Reilly Excavation Ltd.  DBA: Mainline Drainage Ltd.",
+"applicantaddress": "27129 35a Ave\r\nAldergrove, BC  V4W 0C3",
+"propertyuse": [
+"Dwelling Uses"
+],
+"specificusecategory": [
+"Multiple Dwelling"
+],
+"buildingcontractor": "OREILLY EXCAVATION LTD.",
+"buildingcontractoraddress": "27129 35A Ave  \r\nLangley, BC  V4W 0C3",
+"issueyear": "2026",
+"geolocalarea": "Killarney",
+"geom": {
+"type": "Feature",
+"geometry": {
+"coordinates": [
+-123.0402076,
+49.2066556
+],
+"type": "Point"
+},
+"properties": {}
+},
+"yearmonth": "2026-08",
+"geo_point_2d": {
+"lon": -123.0402076,
+"lat": 49.2066556
+}
+}
+}
+]

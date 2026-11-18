@@ -1,0 +1,19 @@
+{
+  "name": "leadyard",
+  "version": "1.0.0",
+  "description": "BC construction permit leads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "rescore": "node src/rescore.js",
+    "ingest": "python3 engine/ingest.py && node src/rescore.js",
+    "test": "python3 -m pytest tests -q"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.3.0"
+  }
+}
